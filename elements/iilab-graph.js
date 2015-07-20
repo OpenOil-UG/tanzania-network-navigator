@@ -7,6 +7,8 @@ function startGraph(viz, that) {
   var param = that.param
   var myjson = {nodes:[], links:[]};
 
+    var sidestep_cypher = true;
+
   // Initialise existing d3 elements and events in the DOM
   if (viz) {
     while ( viz.lastChild) {
@@ -23,37 +25,28 @@ function startGraph(viz, that) {
     param = null;
   }
 
-  neo4j.connect(that.url, function (err, graph) {
-      if (err)
-          throw err;
 
-      graph.query(cypher, param, function (err, results) {
-          if (err) {
-              console.log(err);
-              console.log(err.stack);
-          }
-          else {
-              myjson = {nodes:[], links:[]};
-              
-              // console.log(results)
+    var insert_results_from_json = function(results, that){
+	console.log(results);
 
-              that.countnodes = results[0].result.nodes.length
-              that.countlinks = results[0].result.links.length
+		  that.countnodes = results[0].result.nodes.length
+		  that.countlinks = results[0].result.links.length
 
-              // console.log(that.countnodes)
-              // console.log(that.countlinks)
+		  // console.log(that.countnodes)
+		  // console.log(that.countlinks)
 
-              myjson.nodes = results[0].result.nodes
+		  myjson.nodes = results[0].result.nodes
                                .map(function(row) {
                                     return {
                                         id: row.id,
                                         labels: row.label,
-                                        properties: row.node.data
+					properties: {},
+                                        //properties: row.node.data
                                     };
                                 });
 
-              // console.log(myjson.nodes)
-
+		  // console.log(myjson.nodes)
+		  
               myjson.links = results[0].result.links
                                .map(function(r) {
                                     var caption, weight, size
@@ -101,54 +94,43 @@ function startGraph(viz, that) {
                                 });
 
 
-/*              for (i = 1; i <= that.depth; i++) {
-                      myjson.links = myjson.links.concat(results[0].result.links
-                               .filter(function(row) {
-                                  return (row.r instanceof Array) ? (row.r.length == i) : true
-                               })
-                               .map(function(row) {
-                                    // console.log(i)
-                                    // console.log(row)
-                                    var ret = {};
-                                    if (row.r instanceof Array) {
-                                      r = row.r[i-1]
-                                      ret = {
-                                        id: r.self.replace(that.url + "relationship/",""),
-                                        source: r.start.replace(that.url + "node/",""),
-                                        target: r.end.replace(that.url + "node/",""),
-                                        type: r.type,
-                                        caption: r.type == "IS_OWNER" ? r.data.immediate + "%" : r.type == "IS_CONTRACTOR" ? r.data.contract_share + '%': '',
-                                        weight: r.type == "IS_OWNER" ? r.data.immediate/10 : r.type == "IS_CONTRACTOR" ? r.data.contract_share/5 : 1,
-                                        properties: r.data
-                                      }
-                                    } else {
-                                      r = row
-                                      ret = {
-                                        id: r.id,
-                                        source: r.start,
-                                        target: r.end,
-                                        type: r.type,
-                                        caption: r.type == "IS_OWNER" ? r.data.immediate + "%" : r.type == "IS_CONTRACTOR" ? r.data.contract_share + '%': '',
-                                        weight: r.type == "IS_OWNER" ? r.data.immediate/10 : r.type == "IS_CONTRACTOR" ? r.data.contract_share/5 : 1,
-                                        properties: r.data
-                                      }
-                                    }
-                                    return ret;
-                                }));
-
-              }*/
-
-              // console.log(myjson.links)
 
               // Load Grass stylesheet
 
               d3.xhr("data/style.grass", "application/grass", function(request){
                 drawGraph(request.responseText);
               });
+	  };
 
-          }
-      })
-  });
+    if(sidestep_cypher){
+	console.log('sidestepping json');
+	$.getJSON('tanzania.json', function(jsn){
+	    console.log('pulled local json');
+	    insert_results_from_json(jsn, that)
+	});
+    }
+    else{
+	neo4j.connect(that.url, function (err, graph) {
+	    if (err)
+		throw err;
+	    console.log('querying graph for cypher')
+	    graph.query(cypher, param, function (err, results) {
+		if (err) {
+		    console.log(err);
+		    console.log(err.stack);
+		}
+		else {
+		    myjson = {nodes:[], links:[]};
+		    
+		    console.log(results)
+
+		    insert_results_from_json(results, that)
+		    console.log('did it modularly')
+
+		}
+	    })
+	});
+    }
 
   // Callback with main features executed when stylesheet is loaded.
 
@@ -413,26 +395,6 @@ function startGraph(viz, that) {
             
             that.$.iilab_drawer.openDrawer();
             tip.hide(d, that.parentNode)
-  /*          
-            d3.select(viz).selectAll('g.node circle')
-                .transition()
-                .attr("fill", chart.style()['node.Company'].color)
-                .attr("stroke-width", "4px")
-                .attr("opacity", "1")
-            d3.select(viz).selectAll('g.node text')
-                .transition()
-                .attr("fill", "#2a3e92")
-            d3.select(viz).selectAll('#id_' + d.id + ' circle')
-                .transition()
-                .attr("stroke-opacity", "0.5")
-                .attr("stroke-width", "32px")
-                .attr("fill", "#2a3e92")
-            d3.select(viz).selectAll('#id_' + d.id + ' text')
-                .transition()
-                .attr("fill", "#FFF")
-  */
-            // Autozoom on Click.
-            // TODO: Zoom on clicked node and immediately related nodes. relationshipMap ?
 
             zs = zoom.scale()
             zt = zoom.translate();
@@ -471,121 +433,7 @@ function startGraph(viz, that) {
             }
           }
         })
-/*      .on('nodeDblClicked', function(d,i){
-          e = window.event;
-//          if (e.shiftKey) { console.log('shift is down')}
-//          if (e.altKey) { console.log('alt is down') }
-//          if (e.ctrlKey) { console.log('ctrl is down') }
-          if (e.metaKey) { 
-            // console.log('cmd is down')
 
-            if (d.constructor.name == "Object" && d.node) {
-              d = d.node
-            }
-
-            var myjson = {nodes:[], links:[]};
-
-//        console.log(bubble_map);
-
-            cypher = "MATCH (n {name: '" + d.propertyMap.name + "'})-[r]-(m) RETURN m as n, labels(m) as label, r";
-
-            neo4j.connect(document.querySelector('openoil-app').url, function (err, graph) {
-                if (err)
-                    throw err;
-
-                graph.query(cypher, function (err, results) {
-                    if (err) {
-                        console.log(err);
-                        console.log(err.stack);
-                    }
-                    else {
-                        
-                        // that.count = results.length
-                        console.log(results)
-
-                        myjson.nodes = myjson.nodes.concat(results
-                                         .map(function(row) {
-                                              return {
-                                                id: row.n.id,
-                                                labels: row.label,
-                                                properties: row.n.data
-                                              };
-                                          }));
-
-
-
-                        // console.log(myjson.nodes)
-                        for (i = 1; i <= 1; i++) {
-                                myjson.links = myjson.links.concat(results
-                                         .filter(function(row) {
-                                            return (row.r instanceof Array) ? (row.r.length == i) : true
-                                         })
-                                         .map(function(row) {
-                                              // console.log(i)
-                                              // console.log(row)
-                                              var ret = {};
-                                              if (row.r instanceof Array) {
-                                                r = row.r[i-1]
-                                                ret = {
-                                                  id: r.self.replace(that.url + "relationship/",""),
-                                                  source: r.start.replace(that.url + "node/",""),
-                                                  target: r.end.replace(that.url + "node/",""),
-                                                  type: r.type,
-                                                  caption: r.type == "IS_OWNER" ? r.data.immediate + "%" : r.type == "IS_CONTRACTOR" ? r.data.contract_share + '%': '',
-                                                  weight: r.type == "IS_OWNER" ? r.data.immediate/10 : r.type == "IS_CONTRACTOR" ? r.data.contract_share/5 : 1,
-                                                  properties: r.data
-                                                }
-                                              } else {
-                                                r = row.r
-                                                ret = {
-                                                  id: r.id,
-                                                  source: r.start,
-                                                  target: r.end,
-                                                  type: r.type,
-                                                  caption: r.type == "IS_OWNER" ? r.data.immediate + "%" : r.type == "IS_CONTRACTOR" ? r.data.contract_share + '%': '',
-                                                  weight: r.type == "IS_OWNER" ? r.data.immediate/10 : r.type == "IS_CONTRACTOR" ? r.data.contract_share/5 : 1,
-                                                  properties: r.data
-                                                }
-                                              }
-                                              return ret;
-                                          }));
-
-                        }
-
-                        console.log(myjson.links)
-
-                     graphModel = neo.graphModel()
-                      .nodes(myjson.nodes)
-                      .relationships(myjson.links)
-
-                    d3.select(viz)
-                      .data([graphModel])
-                      .call(chart)
-                }
-              })
-            });
-          
-          }
-          else {
-            // Select proper parent <g>
-            if (d.constructor.name == "Object" && d.node) {
-              d = d.node
-            }
-            tip.hide(d, that.parentNode)
-            console.log(that.depth)
-            that.fire('stats', {i: d.propertyMap.name, t:"dc"});
-            if (d.labels[0] == "Company") {
-              that.cypher = "MATCH p=(a:Company {name: '" + d.propertyMap.name + "'})-[r:IS_OWNER|AWARDS|HAS_CONTRACTOR|HAS_OPERATOR*0.." + that.depth + "]-(n) UNWIND nodes(p) as nodes UNWIND relationships(p) as links RETURN {nodes: [ x in collect(DISTINCT nodes) | {node: x, label: labels(x), id: id(x)}], links: collect(DISTINCT links)} as result"
-            }
-            else if (d.labels[0] == "Country") {
-              that.cypher = "MATCH p=(j:Country {name: '" + d.propertyMap.name + "'})<-[:HAS_JURISDICTION]-(c:Company)<-[r:IS_OWNER*..2]-(d:Company)<-[s:IS_OWNER]-(e:Company)-[:HAS_JURISDICTION]-(f:Country) UNWIND nodes(p) as nodes UNWIND relationships(p) as links RETURN {nodes: [ x in collect(DISTINCT nodes) | {node: x, label: labels(x), id: id(x)}], links: collect(DISTINCT links)} as result"   
-            }
-             else if (d.labels[0] == "Contract") {
-              that.cypher = "MATCH p=(a:Contract {name: '" + d.propertyMap.name + "'})-[hc:AWARDS|HAS_OPERATOR|HAS_CONTRACTOR]-(c: Company)-[r:IS_OWNER*0.." + that.depth + "]-(n) UNWIND nodes(p) as nodes UNWIND relationships(p) as links RETURN {nodes: [ x in collect(DISTINCT nodes) | {node: x, label: labels(x), id: id(x)}], links: collect(DISTINCT links)} as result"            
-            }
-
-          }
-        }) */
       .on('relationshipClicked', function(d,i){
           console.trace()
           if (d.constructor.name == "Object" && d.relationship) {

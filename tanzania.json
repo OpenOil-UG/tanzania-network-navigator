@@ -1,0 +1,54 @@
+[
+    {
+        "result": {
+            "nodes": [
+                {
+                    "data": {
+                        "seven": "eight"
+                    },
+                    "id": 1,
+                    "label": "first"
+                },
+                {
+                    "id": 2,
+                    "label": "second"
+                },
+                {
+                    "id": 3,
+                    "label": "third"
+                }
+            ],
+            "links": [
+                {
+                    "end": "2",
+                    "self": "11",
+                    "data": {
+                        "confidence": "Low",
+                        "contract_share": "15",
+                        "source_url": "http://www.oandoplc.com/wp-content/uploads/Q12006.pdf",
+                        "source_type": "",
+                        "source_date": "",
+                        "log_message": ""
+                    },
+                    "type": "HAS_CONTRACTOR",
+                    "start": "https://neo4j.openoil.net/db/data/node/1"
+                },
+                {
+                    "end": "3",
+                    "type": "HAS_CONTRACTOR",
+                    "self": "12",
+                    "start": "1",
+                    "extensions": {},
+                    "data": {
+                        "confidence": "Low",
+                        "contract_share": "15",
+                        "source_url": "http://www.oandoplc.com/wp-content/uploads/Q12006.pdf",
+                        "source_type": "",
+                        "source_date": "",
+                        "log_message": ""
+                    }
+                }
+            ]
+        }
+    }
+]
