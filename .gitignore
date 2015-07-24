@@ -1,5 +1,4 @@
 node_modules**.pyc
-data/*
 *.DS_Store
 tasks/*
 filings.txt
