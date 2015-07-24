@@ -57,7 +57,7 @@ Polymer('x-dialog', {
     this.$.overlay.target = this;
   },
 
-  toggle: function() {
+  toggle: function() { 
     this.$.overlay.toggle();
   }
 
@@ -312,7 +312,7 @@ Polymer('x-dialog', {
         }
 
       </style>
-      <div layout horizontal center>
+<!--      <div layout horizontal center>
         <core-icon icon="home" size="45px" style="margin-right:15px;"></core-icon>
         <h2>OpenOil: Corporate Network Navigator</h2>
       </div>
@@ -323,7 +323,7 @@ Polymer('x-dialog', {
           <div layout horizontal><core-item icon="cloud-download" label="Nigeria_20140822.tgz"><a href="/data/Nigeria_20140822.tgz" download="Nigeria_20140822.tgz"></a></core-item>&nbsp;&nbsp;&nbsp;<core-item icon="cloud-download" label="Nigeria_20140822.zip"><a href="/data/Nigeria_20140822.zip" download="Nigeria_20140822.zip"></a></core-item></div><br><br>
           <h4>BP ( Ownership ) - 20140822</h4>
           <div layout horizontal><core-item icon="cloud-download" label="BP_20140822.tgz"><a href="/data/BP_20140822.tgz" download="BP_2014022.tgz"></a></core-item>&nbsp;&nbsp;&nbsp;<core-item icon="cloud-download" label="BP_20140822.zip"><a href="/data/BP_20140822.zip" download="BP_20140822.zip"></a></core-item></div>
-        </div>
+        </div> -->
         <div id="graph" layout vertical center flex one>
           <h3>Graph Data</h3>
           <h4>Neo4j JSON export</h4>
@@ -377,7 +377,7 @@ Polymer('x-dialog', {
       </core-header-panel>
       <div id="div" tool horizontal layout center wrap flex>
         <div id="title" >Open&nbsp;Oil Data - Beta</div>
-        <div id="oc" style="font-size:0.6em;">&nbsp;&nbsp;&nbsp;<a href="https://opencorporates.com" style="text-decoration: none; color:#2a3e92;" target="_blank">In partnership with <img src="/img/logo_oc.png" style="vertical-align:middle;"></a></div>
+        <div id="oc" style="font-size:0.6em;">&nbsp;&nbsp;&nbsp;<a href="https://opencorporates.com" style="text-decoration: none; color:#2a3e92;" target="_blank">In Partnership with <img src="/img/logo_oc.png" style="vertical-align:middle;"></a></div>
         <div id="count" flex><template if="{{countNodesValue}}">&nbsp;- {{countNodesValue.node}} nodes &amp; {{countLinksValue.links}} links</template></div>
         <div>&nbsp;</div>
         <core-tooltip>
@@ -401,8 +401,8 @@ Polymer('x-dialog', {
     </core-scaffold>
   </template>
   <script> 
-  	Polymer('openoil-app', {
-      url: (window.location.href.match(/localhost/))?'http://localhost/neo4j/db/data/' : 'https://neo4j.openoil.net/db/data/',
+  Polymer('openoil-app', {	         (window.location.href.match(/localhost/))?'http://localhost/neo4j/db/data/' : 'https://neo4j.openoil.net/db/data/',
+				
       zoom: 0,
       zoomSlider: 0,
   		published: {

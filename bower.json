@@ -6,7 +6,7 @@
   "authors": [
     "Jun Matsushita <jun@iilab.org>"
   ],
-  "description": "Open Oil Data Framework",
+  "description": "Open Oil - Data Framework",
   "license": "GPL v3",
   "private": true,
   "ignore": [

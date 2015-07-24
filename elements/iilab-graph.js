@@ -96,6 +96,7 @@ function startGraph(viz, that) {
 
 
               // Load Grass stylesheet
+	console.log('about to draw a graph');
 
               d3.xhr("data/style.grass", "application/grass", function(request){
                 drawGraph(request.responseText);
@@ -104,7 +105,7 @@ function startGraph(viz, that) {
 
     if(sidestep_cypher){
 	console.log('sidestepping json');
-	$.getJSON('tanzania.json', function(jsn){
+	$.getJSON('td.json', function(jsn){
 	    console.log('pulled local json');
 	    insert_results_from_json(jsn, that)
 	});

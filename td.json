@@ -1,0 +1,1316 @@
+[
+   {
+      "result": {
+         "nodes": [
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Mnazi Bay Holdings SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Mnazi Bay Holdings SAS"
+               }, 
+               "id": "Maurel & Prom Mnazi Bay Holdings SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Acacia Mining Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Acacia Mining Ltd"
+               }, 
+               "id": "Acacia Mining Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Capital World Investors"
+                  }
+               }, 
+               "data": {
+                  "name": "Capital World Investors"
+               }, 
+               "id": "Capital World Investors", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Van Eck Associates Corporation"
+                  }
+               }, 
+               "data": {
+                  "name": "Van Eck Associates Corporation"
+               }, 
+               "id": "Van Eck Associates Corporation", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Peru", 
+                     "name": "M&P Peru SA"
+                  }
+               }, 
+               "data": {
+                  "name": "M&P Peru SA"
+               }, 
+               "id": "M&P Peru SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration Production France SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Exploration Production France SAS"
+               }, 
+               "id": "Maurel & Prom Exploration Production France SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Carmignac Gestion"
+                  }
+               }, 
+               "data": {
+                  "name": "Carmignac Gestion"
+               }, 
+               "id": "Carmignac Gestion", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "North Mara Gold Mine Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "North Mara Gold Mine Ltd"
+               }, 
+               "id": "North Mara Gold Mine Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "Maurel & Prom Exploration Production Tanzania Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Exploration Production Tanzania Ltd"
+               }, 
+               "id": "Maurel & Prom Exploration Production Tanzania Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Bulyanhulu Gold Mine"
+                  }
+               }, 
+               "data": {
+                  "name": "Bulyanhulu Gold Mine"
+               }, 
+               "id": "Bulyanhulu Gold Mine", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Itobo Exploration Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Itobo Exploration Ltd"
+               }, 
+               "id": "Itobo Exploration Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "Mnazi Bay PSA"
+                  }
+               }, 
+               "data": {
+                  "name": "Mnazi Bay PSA"
+               }, 
+               "id": "Mnazi Bay PSA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "ABG Exploration Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "ABG Exploration Limited"
+               }, 
+               "id": "ABG Exploration Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Saint-Aubin Exploration & Production (Quebec) Inc"
+                  }
+               }, 
+               "data": {
+                  "name": "Saint-Aubin Exploration & Production (Quebec) Inc"
+               }, 
+               "id": "Saint-Aubin Exploration & Production (Quebec) Inc", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Arnhold & S. Bleichroeder Advisers, LLC"
+                  }
+               }, 
+               "data": {
+                  "name": "Arnhold & S. Bleichroeder Advisers, LLC"
+               }, 
+               "id": "Arnhold & S. Bleichroeder Advisers, LLC", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Bahamas", 
+                     "name": "Zetah Noumbi Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Zetah Noumbi Ltd"
+               }, 
+               "id": "Zetah Noumbi Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Slate Path Capital LP"
+                  }
+               }, 
+               "data": {
+                  "name": "Slate Path Capital LP"
+               }, 
+               "id": "Slate Path Capital LP", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Maurel & Prom Tanzania Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Tanzania Ltd"
+               }, 
+               "id": "Maurel & Prom Tanzania Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Peru Holdings SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Peru Holdings SAS"
+               }, 
+               "id": "Maurel & Prom Peru Holdings SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Nyanzaga Exploration Company Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Nyanzaga Exploration Company Ltd"
+               }, 
+               "id": "Nyanzaga Exploration Company Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Bulyanhulu Gold Mine Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Bulyanhulu Gold Mine Ltd"
+               }, 
+               "id": "Bulyanhulu Gold Mine Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Netherlands", 
+                     "name": "Maurel & Prom Colombia BV"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Colombia BV"
+               }, 
+               "id": "Maurel & Prom Colombia BV", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "BMO Asset Management Inc."
+                  }
+               }, 
+               "data": {
+                  "name": "BMO Asset Management Inc."
+               }, 
+               "id": "BMO Asset Management Inc.", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "MP West Canada SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "MP West Canada SAS"
+               }, 
+               "id": "MP West Canada SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Switzerland", 
+                     "name": "Maurel & Prom Assistance Technique International SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Assistance Technique International SA"
+               }, 
+               "id": "Maurel & Prom Assistance Technique International SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "CIBC World Markets Inc."
+                  }
+               }, 
+               "data": {
+                  "name": "CIBC World Markets Inc."
+               }, 
+               "id": "CIBC World Markets Inc.", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Cayman Islands", 
+                     "name": "Barrick Tanzanian Holdings Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Barrick Tanzanian Holdings Ltd"
+               }, 
+               "id": "Barrick Tanzanian Holdings Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Saint-Aubin Energie Quebec Inc"
+                  }
+               }, 
+               "data": {
+                  "name": "Saint-Aubin Energie Quebec Inc"
+               }, 
+               "id": "Saint-Aubin Energie Quebec Inc", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Saint-Aubin Energie"
+                  }
+               }, 
+               "data": {
+                  "name": "Saint-Aubin Energie"
+               }, 
+               "id": "Saint-Aubin Energie", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Matinje Exploration Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Matinje Exploration Ltd"
+               }, 
+               "id": "Matinje Exploration Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Caroil SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Caroil SAS"
+               }, 
+               "id": "Caroil SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Toronto-Dominion Bank"
+                  }
+               }, 
+               "data": {
+                  "name": "Toronto-Dominion Bank"
+               }, 
+               "id": "Toronto-Dominion Bank", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Buzwagi Gold Mine"
+                  }
+               }, 
+               "data": {
+                  "name": "Buzwagi Gold Mine"
+               }, 
+               "id": "Buzwagi Gold Mine", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "MP East Asia SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "MP East Asia SAS"
+               }, 
+               "id": "MP East Asia SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration Production Gabon SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Exploration Production Gabon SA"
+               }, 
+               "id": "Maurel & Prom Exploration Production Gabon SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "North Mara Gold Mine"
+                  }
+               }, 
+               "data": {
+                  "name": "North Mara Gold Mine"
+               }, 
+               "id": "North Mara Gold Mine", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom West Africa SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom West Africa SAS"
+               }, 
+               "id": "Maurel & Prom West Africa SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Assistance Technique SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Assistance Technique SAS"
+               }, 
+               "id": "Maurel & Prom Assistance Technique SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom D\u00e9veloppment Gabon"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom D\u00e9veloppment Gabon"
+               }, 
+               "id": "Maurel & Prom D\u00e9veloppment Gabon", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Barrick Gold Corp"
+                  }
+               }, 
+               "data": {
+                  "name": "Barrick Gold Corp"
+               }, 
+               "id": "Barrick Gold Corp", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Australia", 
+                     "name": "East Africa Gold Mines Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "East Africa Gold Mines Ltd"
+               }, 
+               "id": "East Africa Gold Mines Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Namibia SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Namibia SAS"
+               }, 
+               "id": "Maurel & Prom Namibia SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Italy", 
+                     "name": "Panther Eureka S.r.l."
+                  }
+               }, 
+               "data": {
+                  "name": "Panther Eureka S.r.l."
+               }, 
+               "id": "Panther Eureka S.r.l.", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom SA"
+               }, 
+               "id": "Maurel & Prom SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "British Columbia Inv Management Corp"
+                  }
+               }, 
+               "data": {
+                  "name": "British Columbia Inv Management Corp"
+               }, 
+               "id": "British Columbia Inv Management Corp", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Brazil", 
+                     "name": "Maurel & Prom Oleo & Gas do Brazil BV"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Oleo & Gas do Brazil BV"
+               }, 
+               "id": "Maurel & Prom Oleo & Gas do Brazil BV", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Cyprus", 
+                     "name": "Cyprus Mnazi Bay Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "Cyprus Mnazi Bay Limited"
+               }, 
+               "id": "Cyprus Mnazi Bay Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "ISON Holding SARL"
+                  }
+               }, 
+               "data": {
+                  "name": "ISON Holding SARL"
+               }, 
+               "id": "ISON Holding SARL", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Gabon", 
+                     "name": "Maurel & Prom Gabon SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Gabon SA"
+               }, 
+               "id": "Maurel & Prom Gabon SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Iraq SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Iraq SAS"
+               }, 
+               "id": "Maurel & Prom Iraq SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Netherlands", 
+                     "name": "Maurel & Prom Drilling Services BV"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Drilling Services BV"
+               }, 
+               "id": "Maurel & Prom Drilling Services BV", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "United Kingdom"
+                  }
+               }, 
+               "data": {
+                  "name": "United Kingdom"
+               }, 
+               "id": "United Kingdom", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "Ontario Teachers' Pension Plan"
+                  }
+               }, 
+               "data": {
+                  "name": "Ontario Teachers' Pension Plan"
+               }, 
+               "id": "Ontario Teachers' Pension Plan", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration and Production Mozambique SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Exploration and Production Mozambique SAS"
+               }, 
+               "id": "Maurel & Prom Exploration and Production Mozambique SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Congo", 
+                     "name": "Maurel & Prom Congo SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Congo SA"
+               }, 
+               "id": "Maurel & Prom Congo SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Volney 2 SAS"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Volney 2 SAS"
+               }, 
+               "id": "Maurel & Prom Volney 2 SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Cayman Islands", 
+                     "name": "Cayco Tz Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "Cayco Tz Ltd"
+               }, 
+               "id": "Cayco Tz Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration and Production BR M"
+                  }
+               }, 
+               "data": {
+                  "name": "Maurel & Prom Exploration and Production BR M"
+               }, 
+               "id": "Maurel & Prom Exploration and Production BR M", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "United Kingdom", 
+                     "name": "BUK HoldCo Ltd"
+                  }
+               }, 
+               "data": {
+                  "name": "BUK HoldCo Ltd"
+               }, 
+               "id": "BUK HoldCo Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "MP Energy West Canada Corp."
+                  }
+               }, 
+               "data": {
+                  "name": "MP Energy West Canada Corp."
+               }, 
+               "id": "MP Energy West Canada Corp.", 
+               "label": [
+                  "Company"
+               ]
+            }
+         ], 
+         "links": [
+            {
+               "start": "Bulyanhulu Gold Mine", 
+               "self": "1", 
+               "end": "Bulyanhulu Gold Mine Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buzwagi Gold Mine", 
+               "self": "2", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "North Mara Gold Mine", 
+               "self": "3", 
+               "end": "North Mara Gold Mine Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "4", 
+               "end": "United Kingdom", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Bulyanhulu Gold Mine Ltd", 
+               "self": "5", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "North Mara Gold Mine Ltd", 
+               "self": "6", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Acacia Mining Ltd", 
+               "self": "7", 
+               "end": "Barrick Gold Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "BUK HoldCo Ltd", 
+               "self": "8", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Tanzanian Holdings Ltd", 
+               "self": "9", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cayco Tz Ltd", 
+               "self": "10", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "East Africa Gold Mines Ltd", 
+               "self": "11", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "ABG Exploration Limited", 
+               "self": "12", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Matinje Exploration Ltd", 
+               "self": "13", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Itobo Exploration Ltd", 
+               "self": "14", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Nyanzaga Exploration Company Ltd", 
+               "self": "15", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "16", 
+               "end": "Van Eck Associates Corporation", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "17", 
+               "end": "Ontario Teachers' Pension Plan", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "18", 
+               "end": "British Columbia Inv Management Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "19", 
+               "end": "Arnhold & S. Bleichroeder Advisers, LLC", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "20", 
+               "end": "Capital World Investors", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "21", 
+               "end": "Carmignac Gestion", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "22", 
+               "end": "Toronto-Dominion Bank", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "23", 
+               "end": "Slate Path Capital LP", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "24", 
+               "end": "CIBC World Markets Inc.", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "25", 
+               "end": "BMO Asset Management Inc.", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mnazi Bay PSA", 
+               "self": "26", 
+               "end": "Maurel & Prom Exploration Production Tanzania Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Tanzania Ltd", 
+               "self": "27", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Exploration Production Tanzania Ltd", 
+               "self": "28", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom West Africa SAS", 
+               "self": "29", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Gabon SA", 
+               "self": "30", 
+               "end": "Maurel & Prom West Africa SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Exploration Production Gabon SA", 
+               "self": "31", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom D\u00e9veloppment Gabon", 
+               "self": "32", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Congo SA", 
+               "self": "33", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Zetah Noumbi Ltd", 
+               "self": "34", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Colombia BV", 
+               "self": "35", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Oleo & Gas do Brazil BV", 
+               "self": "36", 
+               "end": "Maurel & Prom Colombia BV", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Peru Holdings SAS", 
+               "self": "37", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "M&P Peru SA", 
+               "self": "38", 
+               "end": "Maurel & Prom Peru Holdings SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Assistance Technique International SA", 
+               "self": "39", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Panther Eureka S.r.l.", 
+               "self": "40", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Drilling Services BV", 
+               "self": "41", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Caroil SAS", 
+               "self": "42", 
+               "end": "Maurel & Prom Drilling Services BV", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "ISON Holding SARL", 
+               "self": "43", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Assistance Technique SAS", 
+               "self": "44", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Volney 2 SAS", 
+               "self": "45", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Exploration Production France SAS", 
+               "self": "46", 
+               "end": "Maurel & Prom Volney 2 SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Mnazi Bay Holdings SAS", 
+               "self": "47", 
+               "end": "Maurel & Prom Volney 2 SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cyprus Mnazi Bay Limited", 
+               "self": "48", 
+               "end": "Maurel & Prom Mnazi Bay Holdings SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Exploration and Production BR M", 
+               "self": "49", 
+               "end": "Maurel & Prom Volney 2 SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Exploration and Production Mozambique SAS", 
+               "self": "50", 
+               "end": "Maurel & Prom Volney 2 SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Namibia SAS", 
+               "self": "51", 
+               "end": "Maurel & Prom Volney 2 SAS", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Saint-Aubin Energie", 
+               "self": "52", 
+               "end": "Maurel & Prom SA", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Maurel & Prom Iraq SAS", 
+               "self": "53", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "MP East Asia SAS", 
+               "self": "54", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "MP West Canada SAS", 
+               "self": "55", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "MP Energy West Canada Corp.", 
+               "self": "56", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Saint-Aubin Energie Quebec Inc", 
+               "self": "57", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Saint-Aubin Exploration & Production (Quebec) Inc", 
+               "self": "58", 
+               "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }
+         ]
+      }
+   }
+]
