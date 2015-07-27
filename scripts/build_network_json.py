@@ -99,8 +99,13 @@ class Selected(Reader):
     INPUT_GLOB = '../data/tz/selected/*.csv'
     OUTPUT_FN = '../selected.json'
 
-if __name__ == '__main__':
+
+
+def buildall():
     #Reader().run()
     Acacia().run()
     Complete().run()
     Selected().run()
+
+if __name__ == '__main__':
+    buildall()

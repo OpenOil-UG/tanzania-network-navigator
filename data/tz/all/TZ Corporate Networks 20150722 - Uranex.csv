@@ -1,0 +1,11 @@
+Child Company Name,Immediate %,Parent Company Name,Ultimate %,Jurisdiction of Child Company,Timestamp,Corporate Identifier of Child Company,Source URL,Confidence in this source,Source publication date,No. of OpenCorporates Matches for Parent Company,No of OpenCorporates matches for child company,Username,Comment,Directly Controlled?,When was the relationship created?,,,Status,Name Changes,Turnover Child Company (2012),Profit after Tax Child Company (2012),Total Assets Child Company (2012),Total Liabilities Child Company (2012),Document Name,Document Summary,Document Raw,Document URL,Document Filename,,,Document Name,Document Summary,Document Raw,Document URL,Document Filename,LINK,CHECK
+company,immediate,parent,ultimate,jurisdiction,,oc_id,source_url,confidence,source_date,,,,,ownership_type,,start_date,end_date,ownership_status,,turnover,profit,assets,liabilities,document_name,documentation_summary,document_raw,document_url,document_filename,,,document2_name,document2_summary,document2_raw,document2_url,document2_filename,,
+Manyoni Uranium Project,100,Uranex Limited,,,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Mkuju Uranium Project,100,Uranex Limited,,,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Uranex Limited,,,,Australia,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uranex Tanzania Limited,100,Uranex Limited,,Tanzania,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Uranex Mozambique Limitada,100,Uranex Limited,,Mozambique,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Uranex ESIP Pty Ltd,100,Uranex Limited,,Australia,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Faru Resources Limited,100,Uranex Limited,,Tanzania,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Juhudi Minerals Limited,100,Uranex Limited,,Tanzania,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
+Investor Resources Services Pty Ltd,100,Uranex Limited,,Australia,,,http://magnis.com.au/article.php?id=54,high,10/1/2014,,,,,unknown,,,,,,,,,,,,,,,,,,,,,,,
