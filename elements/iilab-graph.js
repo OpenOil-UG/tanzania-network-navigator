@@ -105,7 +105,11 @@ function startGraph(viz, that) {
 
     if(sidestep_cypher){
 	console.log('sidestepping json');
-	$.getJSON('td.json', function(jsn){
+	if(window.location.search == '?acacia'){
+	    var jsonfile = 'acacia.json';}
+	else{
+	    var jsonfile = 'td.json';}
+	$.getJSON(jsonfile, function(jsn){
 	    console.log('pulled local json');
 	    insert_results_from_json(jsn, that)
 	});

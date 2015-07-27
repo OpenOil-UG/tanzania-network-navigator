@@ -13,6 +13,9 @@ import pprint
     
 class Reader(object):
 
+    INPUT_GLOB = '../data/tz/*csv'
+    OUTPUT_FN = '../td.json'
+
     def __init__(self):
         self.nodes = {}
         self.links = []
@@ -46,8 +49,8 @@ class Reader(object):
                 })
         return reader
 
-    def add_all_csvs(self):
-        for csvfile in glob.glob('../data/tz/*csv'):
+    def run(self):
+        for csvfile in glob.glob(self.INPUT_GLOB):
             self.addcsv(csvfile)
         self.output()
 
@@ -81,11 +84,23 @@ class Reader(object):
                 'nodes': self._make_nodes(),
                 'links': self.links,
                 }}]
-        outf = open('../td.json', 'w')
+        outf = open(self.OUTPUT_FN, 'w')
         outf.write(json.dumps(structure, indent=3))
 
+class Acacia(Reader):
+    INPUT_GLOB = '../data/tz/acacia.csv'
+    OUTPUT_FN = '../acacia.json'
 
-def test():
-    r = Reader()
-    #r.add_sample()
-    r.add_all_csvs()
+class Complete(Reader):
+    INPUT_GLOB = '../data/tz/all/*.csv'
+    OUTPUT_FN = '../complete.json'
+
+class Selected(Reader):
+    INPUT_GLOB = '../data/tz/selected/*.csv'
+    OUTPUT_FN = '../selected.json'
+
+if __name__ == '__main__':
+    #Reader().run()
+    Acacia().run()
+    Complete().run()
+    Selected().run()
