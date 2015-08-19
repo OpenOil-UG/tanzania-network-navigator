@@ -65,14 +65,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "3.5404"
+                     "jurisdiction": "Peru", 
+                     "name": "M&P Peru SA"
                   }
                }, 
                "data": {
-                  "name": "3.5404"
+                  "name": "M&P Peru SA"
                }, 
-               "id": "3.5404", 
+               "id": "M&P Peru SA", 
                "label": [
                   "Company"
                ]
@@ -80,29 +80,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Australia", 
-                     "name": "AngloGold Ashanti Australia Limited"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Shield Resources Limited"
                   }
                }, 
                "data": {
-                  "name": "AngloGold Ashanti Australia Limited"
+                  "name": "Shield Resources Limited"
                }, 
-               "id": "AngloGold Ashanti Australia Limited", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Canada", 
-                     "name": "Tanzania Royalty Exploration Company"
-                  }
-               }, 
-               "data": {
-                  "name": "Tanzania Royalty Exploration Company"
-               }, 
-               "id": "Tanzania Royalty Exploration Company", 
+               "id": "Shield Resources Limited", 
                "label": [
                   "Company"
                ]
@@ -125,14 +110,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Kilosa-Kilombero"
+                     "jurisdiction": "Canada", 
+                     "name": "MP Energy West Canada Corp."
                   }
                }, 
                "data": {
-                  "name": "Kilosa-Kilombero"
+                  "name": "MP Energy West Canada Corp."
                }, 
-               "id": "Kilosa-Kilombero", 
+               "id": "MP Energy West Canada Corp.", 
                "label": [
                   "Company"
                ]
@@ -185,14 +170,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Kilwani North"
+                     "jurisdiction": "", 
+                     "name": "Maurel & Prom Exploration Production Tanzania Ltd"
                   }
                }, 
                "data": {
-                  "name": "Kilwani North"
+                  "name": "Maurel & Prom Exploration Production Tanzania Ltd"
                }, 
-               "id": "Kilwani North", 
+               "id": "Maurel & Prom Exploration Production Tanzania Ltd", 
                "label": [
                   "Company"
                ]
@@ -231,13 +216,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "Busolwa Prospect"
+                     "name": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT"
                   }
                }, 
                "data": {
-                  "name": "Busolwa Prospect"
+                  "name": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT"
                }, 
-               "id": "Busolwa Prospect", 
+               "id": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT", 
                "label": [
                   "Company"
                ]
@@ -245,14 +230,29 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Australia", 
-                     "name": "Cheetah Resource Sarl"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Mgusu Mining Limited"
                   }
                }, 
                "data": {
-                  "name": "Cheetah Resource Sarl"
+                  "name": "Mgusu Mining Limited"
                }, 
-               "id": "Cheetah Resource Sarl", 
+               "id": "Mgusu Mining Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "Kiliwani North"
+                  }
+               }, 
+               "data": {
+                  "name": "Kiliwani North"
+               }, 
+               "id": "Kiliwani North", 
                "label": [
                   "Company"
                ]
@@ -275,29 +275,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Shield Resources Limited"
+                     "jurisdiction": "", 
+                     "name": "RECB Limited"
                   }
                }, 
                "data": {
-                  "name": "Shield Resources Limited"
+                  "name": "RECB Limited"
                }, 
-               "id": "Shield Resources Limited", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Namibia", 
-                     "name": "ARMZ Namibia Pty"
-                  }
-               }, 
-               "data": {
-                  "name": "ARMZ Namibia Pty"
-               }, 
-               "id": "ARMZ Namibia Pty", 
+               "id": "RECB Limited", 
                "label": [
                   "Company"
                ]
@@ -470,14 +455,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Cayman Islands", 
-                     "name": "Barrick Tanzanian Holdings Ltd"
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom D\u00e9veloppment Gabon"
                   }
                }, 
                "data": {
-                  "name": "Barrick Tanzanian Holdings Ltd"
+                  "name": "Maurel & Prom D\u00e9veloppment Gabon"
                }, 
-               "id": "Barrick Tanzanian Holdings Ltd", 
+               "id": "Maurel & Prom D\u00e9veloppment Gabon", 
                "label": [
                   "Company"
                ]
@@ -530,14 +515,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Mali", 
-                     "name": "Soci\u00e9t\u00e9 des Mines de Morila S.A"
+                     "jurisdiction": "Australia", 
+                     "name": "AngloGold Ashanti Australia Limited"
                   }
                }, 
                "data": {
-                  "name": "Soci\u00e9t\u00e9 des Mines de Morila S.A"
+                  "name": "AngloGold Ashanti Australia Limited"
                }, 
-               "id": "Soci\u00e9t\u00e9 des Mines de Morila S.A", 
+               "id": "AngloGold Ashanti Australia Limited", 
                "label": [
                   "Company"
                ]
@@ -545,14 +530,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Kenya", 
-                     "name": "Swala Energy (Kenya) Limited"
+                     "jurisdiction": "Canada", 
+                     "name": "BMO Asset Management Inc."
                   }
                }, 
                "data": {
-                  "name": "Swala Energy (Kenya) Limited"
+                  "name": "BMO Asset Management Inc."
                }, 
-               "id": "Swala Energy (Kenya) Limited", 
+               "id": "BMO Asset Management Inc.", 
                "label": [
                   "Company"
                ]
@@ -605,14 +590,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Australia", 
-                     "name": "Swala Energy Australia Pty Ltd"
+                     "jurisdiction": "", 
+                     "name": "2.8726"
                   }
                }, 
                "data": {
-                  "name": "Swala Energy Australia Pty Ltd"
+                  "name": "2.8726"
                }, 
-               "id": "Swala Energy Australia Pty Ltd", 
+               "id": "2.8726", 
                "label": [
                   "Company"
                ]
@@ -620,14 +605,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Botswana", 
-                     "name": "Petra Diamonds Botswana (Pty) Ltd"
+                     "jurisdiction": "United States", 
+                     "name": "Aminex USA Inc"
                   }
                }, 
                "data": {
-                  "name": "Petra Diamonds Botswana (Pty) Ltd"
+                  "name": "Aminex USA Inc"
                }, 
-               "id": "Petra Diamonds Botswana (Pty) Ltd", 
+               "id": "Aminex USA Inc", 
                "label": [
                   "Company"
                ]
@@ -740,21 +725,6 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Canada", 
-                     "name": "MP Energy West Canada Corp."
-                  }
-               }, 
-               "data": {
-                  "name": "MP Energy West Canada Corp."
-               }, 
-               "id": "MP Energy West Canada Corp.", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
                      "jurisdiction": "Australia", 
                      "name": "Resolute Pty Ltd"
                   }
@@ -770,14 +740,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Netherlands", 
-                     "name": "Maurel & Prom Drilling Services BV"
+                     "jurisdiction": "", 
+                     "name": "Kilosa-Kilombero"
                   }
                }, 
                "data": {
-                  "name": "Maurel & Prom Drilling Services BV"
+                  "name": "Kilosa-Kilombero"
                }, 
-               "id": "Maurel & Prom Drilling Services BV", 
+               "id": "Kilosa-Kilombero", 
                "label": [
                   "Company"
                ]
@@ -845,6 +815,21 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "", 
+                     "name": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)"
+                  }
+               }, 
+               "data": {
+                  "name": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)"
+               }, 
+               "id": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "Mali", 
                      "name": "Soci\u00e9t\u00e9 d'Exploitation des Mines d'Or de Sadiola S.A"
                   }
@@ -860,14 +845,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Cote d'Ivoire", 
-                     "name": "Amber Gold Cote d'Ivoire SARL"
+                     "jurisdiction": "", 
+                     "name": "Buckreef Prospect"
                   }
                }, 
                "data": {
-                  "name": "Amber Gold Cote d'Ivoire SARL"
+                  "name": "Buckreef Prospect"
                }, 
-               "id": "Amber Gold Cote d'Ivoire SARL", 
+               "id": "Buckreef Prospect", 
                "label": [
                   "Company"
                ]
@@ -890,14 +875,29 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Australia", 
-                     "name": "Intra Energy Corp"
+                     "jurisdiction": "", 
+                     "name": "Tancoal Mine"
                   }
                }, 
                "data": {
-                  "name": "Intra Energy Corp"
+                  "name": "Tancoal Mine"
                }, 
-               "id": "Intra Energy Corp", 
+               "id": "Tancoal Mine", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "0.8117"
+                  }
+               }, 
+               "data": {
+                  "name": "0.8117"
+               }, 
+               "id": "0.8117", 
                "label": [
                   "Company"
                ]
@@ -935,14 +935,29 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "Australia", 
+                     "name": "Intra Energy Corp"
+                  }
+               }, 
+               "data": {
+                  "name": "Intra Energy Corp"
+               }, 
+               "id": "Intra Energy Corp", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "", 
-                     "name": "Tancoal Mine"
+                     "name": "Tanzania Petroleum Development Corporation"
                   }
                }, 
                "data": {
-                  "name": "Tancoal Mine"
+                  "name": "Tanzania Petroleum Development Corporation"
                }, 
-               "id": "Tancoal Mine", 
+               "id": "Tanzania Petroleum Development Corporation", 
                "label": [
                   "Company"
                ]
@@ -950,22 +965,7 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Mauritius", 
-                     "name": "Wentworth Mozambique (Mauritius) Limited"
-                  }
-               }, 
-               "data": {
-                  "name": "Wentworth Mozambique (Mauritius) Limited"
-               }, 
-               "id": "Wentworth Mozambique (Mauritius) Limited", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "CONTRACTS", 
+                     "jurisdiction": "Cyprus", 
                      "name": "Cyprus Mnazi Bay Limited"
                   }
                }, 
@@ -980,14 +980,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Ghana", 
-                     "name": "Mensin Gold Bibiani Limited"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Chunya Resources Limited"
                   }
                }, 
                "data": {
-                  "name": "Mensin Gold Bibiani Limited"
+                  "name": "Chunya Resources Limited"
                }, 
-               "id": "Mensin Gold Bibiani Limited", 
+               "id": "Chunya Resources Limited", 
                "label": [
                   "Company"
                ]
@@ -1010,14 +1010,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "1.1797"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Kilwani North"
                   }
                }, 
                "data": {
-                  "name": "1.1797"
+                  "name": "Kilwani North"
                }, 
-               "id": "1.1797", 
+               "id": "Kilwani North", 
                "label": [
                   "Company"
                ]
@@ -1040,14 +1040,29 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Swala Oil and Gas (Tanzania) Plc"
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration and Production Mozambique SAS"
                   }
                }, 
                "data": {
-                  "name": "Swala Oil and Gas (Tanzania) Plc"
+                  "name": "Maurel & Prom Exploration and Production Mozambique SAS"
                }, 
-               "id": "Swala Oil and Gas (Tanzania) Plc", 
+               "id": "Maurel & Prom Exploration and Production Mozambique SAS", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Mali", 
+                     "name": "Societe des Mines de Syama SA"
+                  }
+               }, 
+               "data": {
+                  "name": "Societe des Mines de Syama SA"
+               }, 
+               "id": "Societe des Mines de Syama SA", 
                "label": [
                   "Company"
                ]
@@ -1131,6 +1146,21 @@
                "node": {
                   "data": {
                      "jurisdiction": "Mali", 
+                     "name": "Soci\u00e9t\u00e9 des Mines de Morila S.A"
+                  }
+               }, 
+               "data": {
+                  "name": "Soci\u00e9t\u00e9 des Mines de Morila S.A"
+               }, 
+               "id": "Soci\u00e9t\u00e9 des Mines de Morila S.A", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Mali", 
                      "name": "Resolute Mali SA"
                   }
                }, 
@@ -1190,14 +1220,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Tanzania Petroleum Development Corporation"
+                     "jurisdiction": "Mauritius", 
+                     "name": "Wentworth Mozambique (Mauritius) Limited"
                   }
                }, 
                "data": {
-                  "name": "Tanzania Petroleum Development Corporation"
+                  "name": "Wentworth Mozambique (Mauritius) Limited"
                }, 
-               "id": "Tanzania Petroleum Development Corporation", 
+               "id": "Wentworth Mozambique (Mauritius) Limited", 
                "label": [
                   "Company"
                ]
@@ -1265,14 +1295,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "ARMZ Uranium Holding Co"
+                     "jurisdiction": "France", 
+                     "name": "MP East Asia SAS"
                   }
                }, 
                "data": {
-                  "name": "ARMZ Uranium Holding Co"
+                  "name": "MP East Asia SAS"
                }, 
-               "id": "ARMZ Uranium Holding Co", 
+               "id": "MP East Asia SAS", 
                "label": [
                   "Company"
                ]
@@ -1325,22 +1355,7 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Bahamas", 
-                     "name": "Zetah Noumbi Ltd"
-                  }
-               }, 
-               "data": {
-                  "name": "Zetah Noumbi Ltd"
-               }, 
-               "id": "Zetah Noumbi Ltd", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "CONTRACTS", 
+                     "jurisdiction": "", 
                      "name": "Mnazi Bay PSA"
                   }
                }, 
@@ -1370,14 +1385,29 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Chunya Resources Limited"
+                     "jurisdiction": "Netherlands", 
+                     "name": "Maurel & Prom Drilling Services BV"
                   }
                }, 
                "data": {
-                  "name": "Chunya Resources Limited"
+                  "name": "Maurel & Prom Drilling Services BV"
                }, 
-               "id": "Chunya Resources Limited", 
+               "id": "Maurel & Prom Drilling Services BV", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Ghana", 
+                     "name": "Mensin Gold Bibiani Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "Mensin Gold Bibiani Limited"
+               }, 
+               "id": "Mensin Gold Bibiani Limited", 
                "label": [
                   "Company"
                ]
@@ -1430,14 +1460,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Buckreef Prospect"
+                     "jurisdiction": "Kenya", 
+                     "name": "Swala Energy (Kenya) Limited"
                   }
                }, 
                "data": {
-                  "name": "Buckreef Prospect"
+                  "name": "Swala Energy (Kenya) Limited"
                }, 
-               "id": "Buckreef Prospect", 
+               "id": "Swala Energy (Kenya) Limited", 
                "label": [
                   "Company"
                ]
@@ -1445,14 +1475,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Invesco Funds BNY Mellon (Luxembourg)"
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Exploration Production Gabon SA"
                   }
                }, 
                "data": {
-                  "name": "Invesco Funds BNY Mellon (Luxembourg)"
+                  "name": "Maurel & Prom Exploration Production Gabon SA"
                }, 
-               "id": "Invesco Funds BNY Mellon (Luxembourg)", 
+               "id": "Maurel & Prom Exploration Production Gabon SA", 
                "label": [
                   "Company"
                ]
@@ -1550,14 +1580,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Mgusu Mining Limited"
+                     "jurisdiction": "", 
+                     "name": "Busolwa Prospect"
                   }
                }, 
                "data": {
-                  "name": "Mgusu Mining Limited"
+                  "name": "Busolwa Prospect"
                }, 
-               "id": "Mgusu Mining Limited", 
+               "id": "Busolwa Prospect", 
                "label": [
                   "Company"
                ]
@@ -1581,13 +1611,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "France", 
-                     "name": "Maurel & Prom Namibia SAS"
+                     "name": "MP West Canada SAS"
                   }
                }, 
                "data": {
-                  "name": "Maurel & Prom Namibia SAS"
+                  "name": "MP West Canada SAS"
                }, 
-               "id": "Maurel & Prom Namibia SAS", 
+               "id": "MP West Canada SAS", 
                "label": [
                   "Company"
                ]
@@ -1595,29 +1625,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Aurora Nominees Limited 2126900 ACCT"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Stamico"
                   }
                }, 
                "data": {
-                  "name": "Aurora Nominees Limited 2126900 ACCT"
+                  "name": "Stamico"
                }, 
-               "id": "Aurora Nominees Limited 2126900 ACCT", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Isle of Man", 
-                     "name": "AngloGold Ashanti Holdings plc"
-                  }
-               }, 
-               "data": {
-                  "name": "AngloGold Ashanti Holdings plc"
-               }, 
-               "id": "AngloGold Ashanti Holdings plc", 
+               "id": "Stamico", 
                "label": [
                   "Company"
                ]
@@ -1760,14 +1775,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "2.8726"
+                     "jurisdiction": "Mauritius", 
+                     "name": "East Africa Mining Limited"
                   }
                }, 
                "data": {
-                  "name": "2.8726"
+                  "name": "East Africa Mining Limited"
                }, 
-               "id": "2.8726", 
+               "id": "East Africa Mining Limited", 
                "label": [
                   "Company"
                ]
@@ -1783,6 +1798,21 @@
                   "name": "Erncon Holding Limited"
                }, 
                "id": "Erncon Holding Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "United Kingdom", 
+                     "name": "Wentworth Resources (UK) Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "Wentworth Resources (UK) Limited"
+               }, 
+               "id": "Wentworth Resources (UK) Limited", 
                "label": [
                   "Company"
                ]
@@ -1820,6 +1850,21 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "Cote d'Ivoire", 
+                     "name": "Amber Gold Cote d'Ivoire SARL"
+                  }
+               }, 
+               "data": {
+                  "name": "Amber Gold Cote d'Ivoire SARL"
+               }, 
+               "id": "Amber Gold Cote d'Ivoire SARL", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "Malawi", 
                      "name": "Malcoal Mining Limited"
                   }
@@ -1835,14 +1880,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "0.8117"
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Assistance Technique SAS"
                   }
                }, 
                "data": {
-                  "name": "0.8117"
+                  "name": "Maurel & Prom Assistance Technique SAS"
                }, 
-               "id": "0.8117", 
+               "id": "Maurel & Prom Assistance Technique SAS", 
                "label": [
                   "Company"
                ]
@@ -1955,21 +2000,6 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "Maurel & Prom Assistance Technique SAS"
-                  }
-               }, 
-               "data": {
-                  "name": "Maurel & Prom Assistance Technique SAS"
-               }, 
-               "id": "Maurel & Prom Assistance Technique SAS", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
                      "jurisdiction": "United States", 
                      "name": "AngloGold Ashanti USA Incorporated"
                   }
@@ -2015,29 +2045,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Kabanga Nickel Company\u00a0Limited"
+                     "jurisdiction": "", 
+                     "name": "JSC Olovskaja MCC"
                   }
                }, 
                "data": {
-                  "name": "Kabanga Nickel Company\u00a0Limited"
+                  "name": "JSC Olovskaja MCC"
                }, 
-               "id": "Kabanga Nickel Company\u00a0Limited", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Australia", 
-                     "name": "Goudhurst Pty Ltd"
-                  }
-               }, 
-               "data": {
-                  "name": "Goudhurst Pty Ltd"
-               }, 
-               "id": "Goudhurst Pty Ltd", 
+               "id": "JSC Olovskaja MCC", 
                "label": [
                   "Company"
                ]
@@ -2046,13 +2061,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "Kiliwani North"
+                     "name": "1.1797"
                   }
                }, 
                "data": {
-                  "name": "Kiliwani North"
+                  "name": "1.1797"
                }, 
-               "id": "Kiliwani North", 
+               "id": "1.1797", 
                "label": [
                   "Company"
                ]
@@ -2075,14 +2090,29 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Shanta Mining Company Limited"
                   }
                }, 
                "data": {
-                  "name": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT"
+                  "name": "Shanta Mining Company Limited"
                }, 
-               "id": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT", 
+               "id": "Shanta Mining Company Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "3.5404"
+                  }
+               }, 
+               "data": {
+                  "name": "3.5404"
+               }, 
+               "id": "3.5404", 
                "label": [
                   "Company"
                ]
@@ -2135,6 +2165,21 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "Isle of Man", 
+                     "name": "AngloGold Ashanti Holdings plc"
+                  }
+               }, 
+               "data": {
+                  "name": "AngloGold Ashanti Holdings plc"
+               }, 
+               "id": "AngloGold Ashanti Holdings plc", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "", 
                      "name": "JSC Khiagda"
                   }
@@ -2166,13 +2211,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "Panda Hill"
+                     "name": "John Louis Dragonetti"
                   }
                }, 
                "data": {
-                  "name": "Panda Hill"
+                  "name": "John Louis Dragonetti"
                }, 
-               "id": "Panda Hill", 
+               "id": "John Louis Dragonetti", 
                "label": [
                   "Company"
                ]
@@ -2211,13 +2256,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "Geita Gold Mine"
+                     "name": "Mkuju Uranium Project"
                   }
                }, 
                "data": {
-                  "name": "Geita Gold Mine"
+                  "name": "Mkuju Uranium Project"
                }, 
-               "id": "Geita Gold Mine", 
+               "id": "Mkuju Uranium Project", 
                "label": [
                   "Company"
                ]
@@ -2226,13 +2271,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "RECB Limited"
+                     "name": "Geita Gold Mine"
                   }
                }, 
                "data": {
-                  "name": "RECB Limited"
+                  "name": "Geita Gold Mine"
                }, 
-               "id": "RECB Limited", 
+               "id": "Geita Gold Mine", 
                "label": [
                   "Company"
                ]
@@ -2248,6 +2293,21 @@
                   "name": "BUK HoldCo Ltd"
                }, 
                "id": "BUK HoldCo Ltd", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Jersey", 
+                     "name": "Kibali (Jersey) Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "Kibali (Jersey) Limited"
+               }, 
+               "id": "Kibali (Jersey) Limited", 
                "label": [
                   "Company"
                ]
@@ -2345,14 +2405,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Argentina", 
-                     "name": "Cerro Vanguardia S.A"
+                     "jurisdiction": "Australia", 
+                     "name": "Goudhurst Pty Ltd"
                   }
                }, 
                "data": {
-                  "name": "Cerro Vanguardia S.A"
+                  "name": "Goudhurst Pty Ltd"
                }, 
-               "id": "Cerro Vanguardia S.A", 
+               "id": "Goudhurst Pty Ltd", 
                "label": [
                   "Company"
                ]
@@ -2390,6 +2450,21 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "", 
+                     "name": "Invesco Funds BNY Mellon (Luxembourg)"
+                  }
+               }, 
+               "data": {
+                  "name": "Invesco Funds BNY Mellon (Luxembourg)"
+               }, 
+               "id": "Invesco Funds BNY Mellon (Luxembourg)", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "Congo", 
                      "name": "Maurel & Prom Congo SA"
                   }
@@ -2420,14 +2495,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Netherlands", 
-                     "name": "Maurel & Prom Colombia BV"
+                     "jurisdiction": "Argentina", 
+                     "name": "Cerro Vanguardia S.A"
                   }
                }, 
                "data": {
-                  "name": "Maurel & Prom Colombia BV"
+                  "name": "Cerro Vanguardia S.A"
                }, 
-               "id": "Maurel & Prom Colombia BV", 
+               "id": "Cerro Vanguardia S.A", 
                "label": [
                   "Company"
                ]
@@ -2458,6 +2533,21 @@
                   "name": "Saint-Aubin Exploration & Production (Quebec) Inc"
                }, 
                "id": "Saint-Aubin Exploration & Production (Quebec) Inc", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "Swala Oil and Gas (Tanzania) Plc"
+                  }
+               }, 
+               "data": {
+                  "name": "Swala Oil and Gas (Tanzania) Plc"
+               }, 
+               "id": "Swala Oil and Gas (Tanzania) Plc", 
                "label": [
                   "Company"
                ]
@@ -2525,14 +2615,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Canada", 
-                     "name": "BMO Asset Management Inc."
+                     "jurisdiction": "Netherlands", 
+                     "name": "Maurel & Prom Colombia BV"
                   }
                }, 
                "data": {
-                  "name": "BMO Asset Management Inc."
+                  "name": "Maurel & Prom Colombia BV"
                }, 
-               "id": "BMO Asset Management Inc.", 
+               "id": "Maurel & Prom Colombia BV", 
                "label": [
                   "Company"
                ]
@@ -2563,21 +2653,6 @@
                   "name": "JSC Gornoye UMC"
                }, 
                "id": "JSC Gornoye UMC", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "France", 
-                     "name": "Maurel & Prom Exploration and Production Mozambique SAS"
-                  }
-               }, 
-               "data": {
-                  "name": "Maurel & Prom Exploration and Production Mozambique SAS"
-               }, 
-               "id": "Maurel & Prom Exploration and Production Mozambique SAS", 
                "label": [
                   "Company"
                ]
@@ -2705,6 +2780,21 @@
             {
                "node": {
                   "data": {
+                     "jurisdiction": "Tanzania", 
+                     "name": "Kabanga Nickel Company\u00a0Limited"
+                  }
+               }, 
+               "data": {
+                  "name": "Kabanga Nickel Company\u00a0Limited"
+               }, 
+               "id": "Kabanga Nickel Company\u00a0Limited", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
                      "jurisdiction": "", 
                      "name": "Issa Baluch"
                   }
@@ -2735,14 +2825,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Mali", 
-                     "name": "Societe des Mines de Syama SA"
+                     "jurisdiction": "Tanzania", 
+                     "name": "Singida Project"
                   }
                }, 
                "data": {
-                  "name": "Societe des Mines de Syama SA"
+                  "name": "Singida Project"
                }, 
-               "id": "Societe des Mines de Syama SA", 
+               "id": "Singida Project", 
                "label": [
                   "Company"
                ]
@@ -2750,14 +2840,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "Maurel & Prom D\u00e9veloppment Gabon"
+                     "jurisdiction": "Cayman Islands", 
+                     "name": "Barrick Tanzanian Holdings Ltd"
                   }
                }, 
                "data": {
-                  "name": "Maurel & Prom D\u00e9veloppment Gabon"
+                  "name": "Barrick Tanzanian Holdings Ltd"
                }, 
-               "id": "Maurel & Prom D\u00e9veloppment Gabon", 
+               "id": "Barrick Tanzanian Holdings Ltd", 
                "label": [
                   "Company"
                ]
@@ -2765,14 +2855,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Jersey", 
-                     "name": "Kibali (Jersey) Limited"
+                     "jurisdiction": "", 
+                     "name": "Aurora Nominees Limited 2126900 ACCT"
                   }
                }, 
                "data": {
-                  "name": "Kibali (Jersey) Limited"
+                  "name": "Aurora Nominees Limited 2126900 ACCT"
                }, 
-               "id": "Kibali (Jersey) Limited", 
+               "id": "Aurora Nominees Limited 2126900 ACCT", 
                "label": [
                   "Company"
                ]
@@ -2788,36 +2878,6 @@
                   "name": "BBHISL Nominees Limited 126617 ACCT"
                }, 
                "id": "BBHISL Nominees Limited 126617 ACCT", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "", 
-                     "name": "Maurel & Prom Exploration Production Tanzania Ltd"
-                  }
-               }, 
-               "data": {
-                  "name": "Maurel & Prom Exploration Production Tanzania Ltd"
-               }, 
-               "id": "Maurel & Prom Exploration Production Tanzania Ltd", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Shanta Mining Company Limited"
-                  }
-               }, 
-               "data": {
-                  "name": "Shanta Mining Company Limited"
-               }, 
-               "id": "Shanta Mining Company Limited", 
                "label": [
                   "Company"
                ]
@@ -2885,14 +2945,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "Mkuju Uranium Project"
+                     "jurisdiction": "Australia", 
+                     "name": "Swala Energy Australia Pty Ltd"
                   }
                }, 
                "data": {
-                  "name": "Mkuju Uranium Project"
+                  "name": "Swala Energy Australia Pty Ltd"
                }, 
-               "id": "Mkuju Uranium Project", 
+               "id": "Swala Energy Australia Pty Ltd", 
                "label": [
                   "Company"
                ]
@@ -3095,21 +3155,6 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "MP East Asia SAS"
-                  }
-               }, 
-               "data": {
-                  "name": "MP East Asia SAS"
-               }, 
-               "id": "MP East Asia SAS", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
                      "jurisdiction": "", 
                      "name": "2.4184"
                   }
@@ -3215,14 +3260,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "ISON Holding SARL"
+                     "jurisdiction": "", 
+                     "name": "ARMZ Uranium Holding Co"
                   }
                }, 
                "data": {
-                  "name": "ISON Holding SARL"
+                  "name": "ARMZ Uranium Holding Co"
                }, 
-               "id": "ISON Holding SARL", 
+               "id": "ARMZ Uranium Holding Co", 
                "label": [
                   "Company"
                ]
@@ -3305,29 +3350,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Peru", 
-                     "name": "M&P Peru SA"
+                     "jurisdiction": "Australia", 
+                     "name": "Cheetah Resource Sarl"
                   }
                }, 
                "data": {
-                  "name": "M&P Peru SA"
+                  "name": "Cheetah Resource Sarl"
                }, 
-               "id": "M&P Peru SA", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "", 
-                     "name": "Solo Oil plc"
-                  }
-               }, 
-               "data": {
-                  "name": "Solo Oil plc"
-               }, 
-               "id": "Solo Oil plc", 
+               "id": "Cheetah Resource Sarl", 
                "label": [
                   "Company"
                ]
@@ -3350,14 +3380,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "United States", 
-                     "name": "Aminex USA Inc"
+                     "jurisdiction": "Botswana", 
+                     "name": "Petra Diamonds Botswana (Pty) Ltd"
                   }
                }, 
                "data": {
-                  "name": "Aminex USA Inc"
+                  "name": "Petra Diamonds Botswana (Pty) Ltd"
                }, 
-               "id": "Aminex USA Inc", 
+               "id": "Petra Diamonds Botswana (Pty) Ltd", 
                "label": [
                   "Company"
                ]
@@ -3373,6 +3403,21 @@
                   "name": "PAE PanAfrican Energy Corporation"
                }, 
                "id": "PAE PanAfrican Energy Corporation", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "Canada", 
+                     "name": "United Kingdom"
+                  }
+               }, 
+               "data": {
+                  "name": "United Kingdom"
+               }, 
+               "id": "United Kingdom", 
                "label": [
                   "Company"
                ]
@@ -3411,13 +3456,13 @@
                "node": {
                   "data": {
                      "jurisdiction": "", 
-                     "name": "Buziba Prospect"
+                     "name": "Solo Oil plc"
                   }
                }, 
                "data": {
-                  "name": "Buziba Prospect"
+                  "name": "Solo Oil plc"
                }, 
-               "id": "Buziba Prospect", 
+               "id": "Solo Oil plc", 
                "label": [
                   "Company"
                ]
@@ -3455,14 +3500,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "British Virgin Islands", 
-                     "name": "RECB (BVI) Ltd"
+                     "jurisdiction": "", 
+                     "name": "0.8084"
                   }
                }, 
                "data": {
-                  "name": "RECB (BVI) Ltd"
+                  "name": "0.8084"
                }, 
-               "id": "RECB (BVI) Ltd", 
+               "id": "0.8084", 
                "label": [
                   "Company"
                ]
@@ -3485,14 +3530,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Canada", 
-                     "name": "United Kingdom"
+                     "jurisdiction": "Cote d'Ivoire", 
+                     "name": "Resolute (CDI Holdings) Limited"
                   }
                }, 
                "data": {
-                  "name": "United Kingdom"
+                  "name": "Resolute (CDI Holdings) Limited"
                }, 
-               "id": "United Kingdom", 
+               "id": "Resolute (CDI Holdings) Limited", 
                "label": [
                   "Company"
                ]
@@ -3755,21 +3800,6 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Mauritius", 
-                     "name": "East Africa Mining Limited"
-                  }
-               }, 
-               "data": {
-                  "name": "East Africa Mining Limited"
-               }, 
-               "id": "East Africa Mining Limited", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
                      "jurisdiction": "", 
                      "name": "Savannah Energy DMCC"
                   }
@@ -3800,29 +3830,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "Maurel & Prom Exploration Production Gabon SA"
+                     "jurisdiction": "Bahamas", 
+                     "name": "Zetah Noumbi Ltd"
                   }
                }, 
                "data": {
-                  "name": "Maurel & Prom Exploration Production Gabon SA"
+                  "name": "Zetah Noumbi Ltd"
                }, 
-               "id": "Maurel & Prom Exploration Production Gabon SA", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Cote d'Ivoire", 
-                     "name": "Resolute (CDI Holdings) Limited"
-                  }
-               }, 
-               "data": {
-                  "name": "Resolute (CDI Holdings) Limited"
-               }, 
-               "id": "Resolute (CDI Holdings) Limited", 
+               "id": "Zetah Noumbi Ltd", 
                "label": [
                   "Company"
                ]
@@ -3838,21 +3853,6 @@
                   "name": "Willcroft Company Ltd"
                }, 
                "id": "Willcroft Company Ltd", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Stamico"
-                  }
-               }, 
-               "data": {
-                  "name": "Stamico"
-               }, 
-               "id": "Stamico", 
                "label": [
                   "Company"
                ]
@@ -3890,14 +3890,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "JSC Olovskaja MCC"
+                     "jurisdiction": "Canada", 
+                     "name": "Tanzania Royalty Exploration Company"
                   }
                }, 
                "data": {
-                  "name": "JSC Olovskaja MCC"
+                  "name": "Tanzania Royalty Exploration Company"
                }, 
-               "id": "JSC Olovskaja MCC", 
+               "id": "Tanzania Royalty Exploration Company", 
                "label": [
                   "Company"
                ]
@@ -3920,14 +3920,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "John Louis Dragonetti"
+                     "jurisdiction": "Namibia", 
+                     "name": "ARMZ Namibia Pty"
                   }
                }, 
                "data": {
-                  "name": "John Louis Dragonetti"
+                  "name": "ARMZ Namibia Pty"
                }, 
-               "id": "John Louis Dragonetti", 
+               "id": "ARMZ Namibia Pty", 
                "label": [
                   "Company"
                ]
@@ -3935,14 +3935,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "France", 
-                     "name": "MP West Canada SAS"
+                     "jurisdiction": "", 
+                     "name": "Panda Hill"
                   }
                }, 
                "data": {
-                  "name": "MP West Canada SAS"
+                  "name": "Panda Hill"
                }, 
-               "id": "MP West Canada SAS", 
+               "id": "Panda Hill", 
                "label": [
                   "Company"
                ]
@@ -4040,14 +4040,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)"
+                     "jurisdiction": "France", 
+                     "name": "Maurel & Prom Namibia SAS"
                   }
                }, 
                "data": {
-                  "name": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)"
+                  "name": "Maurel & Prom Namibia SAS"
                }, 
-               "id": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)", 
+               "id": "Maurel & Prom Namibia SAS", 
                "label": [
                   "Company"
                ]
@@ -4070,21 +4070,6 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "Tanzania", 
-                     "name": "Singida Project"
-                  }
-               }, 
-               "data": {
-                  "name": "Singida Project"
-               }, 
-               "id": "Singida Project", 
-               "label": [
-                  "Company"
-               ]
-            }, 
-            {
-               "node": {
-                  "data": {
                      "jurisdiction": "United Kingdom", 
                      "name": "Vostok Power Resources"
                   }
@@ -4100,14 +4085,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "United Kingdom", 
-                     "name": "Wentworth Resources (UK) Limited"
+                     "jurisdiction": "France", 
+                     "name": "ISON Holding SARL"
                   }
                }, 
                "data": {
-                  "name": "Wentworth Resources (UK) Limited"
+                  "name": "ISON Holding SARL"
                }, 
-               "id": "Wentworth Resources (UK) Limited", 
+               "id": "ISON Holding SARL", 
                "label": [
                   "Company"
                ]
@@ -4123,6 +4108,21 @@
                   "name": "Maurel & Prom Gabon SA"
                }, 
                "id": "Maurel & Prom Gabon SA", 
+               "label": [
+                  "Company"
+               ]
+            }, 
+            {
+               "node": {
+                  "data": {
+                     "jurisdiction": "", 
+                     "name": "Buziba Prospect"
+                  }
+               }, 
+               "data": {
+                  "name": "Buziba Prospect"
+               }, 
+               "id": "Buziba Prospect", 
                "label": [
                   "Company"
                ]
@@ -4220,14 +4220,14 @@
             {
                "node": {
                   "data": {
-                     "jurisdiction": "", 
-                     "name": "0.8084"
+                     "jurisdiction": "British Virgin Islands", 
+                     "name": "RECB (BVI) Ltd"
                   }
                }, 
                "data": {
-                  "name": "0.8084"
+                  "name": "RECB (BVI) Ltd"
                }, 
-               "id": "0.8084", 
+               "id": "RECB (BVI) Ltd", 
                "label": [
                   "Company"
                ]
@@ -4265,1619 +4265,1619 @@
          ], 
          "links": [
             {
-               "start": "Tancoal Mine", 
-               "self": "1", 
-               "end": "TANCOAL", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "TANCOAL", 
-               "self": "2", 
-               "end": "Intra Energy (Tanzania) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "TANCOAL", 
-               "self": "3", 
-               "end": "National Development Corporation", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy (Tanzania) Limited", 
-               "self": "4", 
-               "end": "Intra Energy Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AAA Drilling Limited", 
-               "self": "5", 
-               "end": "Intra Energy Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy Limited", 
-               "self": "6", 
-               "end": "Intra Energy Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Atomic Resources Pty Ltd", 
-               "self": "7", 
-               "end": "Intra Energy Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy Corporation (Singapore) Pte Ltd", 
-               "self": "8", 
-               "end": "Intra Energy Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy (Sarawak) Sdn Bhd", 
-               "self": "9", 
-               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy Laos Pte Ltd", 
-               "self": "10", 
-               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy Vietnam Pte Ltd", 
-               "self": "11", 
-               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Intra Energy Trading Limited", 
-               "self": "12", 
-               "end": "Intra Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "East Africa Mining Limited", 
-               "self": "13", 
-               "end": "Intra Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Malcoal Mining Limited", 
-               "self": "14", 
-               "end": "East Africa Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AAA Drilling Limited", 
-               "self": "15", 
-               "end": "AAA Drilling Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Tanzacoal East Africa Mining Limited", 
-               "self": "16", 
-               "end": "Intra Energy (Tanzania) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Tanzacoal East Africa Mining Limited", 
-               "self": "17", 
-               "end": "Olympic Exploration Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mnazi Bay PSA", 
-               "self": "18", 
-               "end": "Wentworth Gas Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mnazi Bay PSA", 
-               "self": "19", 
-               "end": "Cyprus Mnazi Bay Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mnazi Bay PSA", 
-               "self": "20", 
-               "end": "Tanzania Petroleum Development Corporation", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Holdings (Jersey) Limited", 
-               "self": "21", 
-               "end": "Wentworth Resources Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Cyprus Mnazi Bay Limited", 
-               "self": "22", 
-               "end": "Wentworth Holdings (Jersey) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Mozambique (Mauritius) Limited", 
-               "self": "23", 
-               "end": "Wentworth Holdings (Jersey) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Tanzania (Jersey) Limited", 
-               "self": "24", 
-               "end": "Wentworth Holdings (Jersey) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Gas (Jersey) Limited", 
-               "self": "25", 
-               "end": "Wentworth Tanzania (Jersey) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Mocambique Petroleos Limitada", 
-               "self": "26", 
-               "end": "Wentworth Mozambique (Mauritius) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Wentworth Resources (UK) Limited", 
-               "self": "27", 
-               "end": "Wentworth Resources Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Shareholder", 
-               "self": "28", 
-               "end": "% of IssuedShare Capital", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "HSBC Global Custody Nominee (UK) Limited 811524 ACCT", 
-               "self": "29", 
-               "end": "9.3715", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Deutsche Bank AG", 
-               "self": "30", 
-               "end": "6.2264", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Royal Bank of Canada S/A Clients Account (NOM)", 
-               "self": "31", 
-               "end": "4.296", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Deutsche Bank AG Prime Brokerage Full (NOM)", 
-               "self": "32", 
-               "end": "3.7094", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "BBHISL Nominees Limited 126617 ACCT", 
-               "self": "33", 
-               "end": "3.5454", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Vidacos Nominees Limited SL022 ACCT", 
-               "self": "34", 
-               "end": "3.5404", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Bank Julius Baer & Co S/A Client Assets (NOM)", 
-               "self": "35", 
-               "end": "3.5347", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "The Bank of New York (Nominees) Limited", 
-               "self": "36", 
-               "end": "2.8726", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Invesco Perp Eur SMA BNY Mellon SA/NV", 
-               "self": "37", 
-               "end": "2.6631", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Issa Baluch", 
-               "self": "38", 
-               "end": "2.5598", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Chase Nominess Limited ELAIFFD", 
-               "self": "39", 
-               "end": "2.4184", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barclays Bank PLC BBPLC Client PB Cayman (NOM)", 
-               "self": "40", 
-               "end": "2.1361", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Savannah Energy DMCC", 
-               "self": "41", 
-               "end": "1.5339", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Invesco Funds BNY Mellon (Luxembourg)", 
-               "self": "42", 
-               "end": "1.4058", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)", 
-               "self": "43", 
-               "end": "1.1797", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Deutsche Bank AG", 
-               "self": "44", 
-               "end": "1.0957", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "John Louis Dragonetti", 
-               "self": "45", 
-               "end": "1.0007", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT", 
-               "self": "46", 
-               "end": "0.8344", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Cameron Barton", 
-               "self": "47", 
-               "end": "0.8117", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Aurora Nominees Limited 2126900 ACCT", 
-               "self": "48", 
-               "end": "0.8084", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Block 2", 
-               "self": "49", 
-               "end": "Statoil Tanzania AS", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Block 2", 
-               "self": "50", 
-               "end": "ExxonMobil Exploration and Production Tanzania Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Statoil Tanzania AS", 
-               "self": "51", 
-               "end": "Statoil ASA", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "ExxonMobil Exploration and Production Tanzania Limited", 
-               "self": "52", 
-               "end": "ExxonMobil Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
                "start": "Williamson Diamond Mine", 
-               "self": "53", 
+               "self": "1", 
                "end": "Williamson Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Williamson Diamonds Limited", 
-               "self": "54", 
+               "self": "2", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Blue Diamond Mines (Pty) Ltd", 
-               "self": "55", 
+               "self": "3", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Crown Resources (Pty) Ltd", 
-               "self": "56", 
+               "self": "4", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Cullinan Diamond Mine (Pty) Ltd", 
-               "self": "57", 
+               "self": "5", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Cullinan Investment Holdings Ltd", 
-               "self": "58", 
+               "self": "6", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Ealing Management Services (Pty) Ltd", 
-               "self": "59", 
+               "self": "7", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Finsch Diamond Mine (Pty) Ltd", 
-               "self": "60", 
+               "self": "8", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Helam Mining (Pty) Ltd", 
-               "self": "61", 
+               "self": "9", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Kalahari Diamonds Ltd", 
-               "self": "62", 
+               "self": "10", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Petra Diamonds Botswana (Pty) Ltd", 
-               "self": "63", 
+               "self": "11", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Petra Diamonds Jersey Treasury Ltd", 
-               "self": "64", 
+               "self": "12", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Petra Diamonds Netherlands Treasury BV", 
-               "self": "65", 
+               "self": "13", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Petra Diamonds Southern Africa (Pty) Ltd", 
-               "self": "66", 
+               "self": "14", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Premier Rose Management Services (Pty) Ltd", 
-               "self": "67", 
+               "self": "15", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Tarorite (Pty) Ltd", 
-               "self": "68", 
+               "self": "16", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Willcroft Company Ltd", 
-               "self": "69", 
+               "self": "17", 
                "end": "Petra Diamonds Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
-               "start": "Kilwani North", 
-               "self": "70", 
-               "end": "Ndovu Resources Limited", 
+               "start": "Block 2", 
+               "self": "18", 
+               "end": "Statoil Tanzania AS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
-               "start": "Ruvuma", 
-               "self": "71", 
-               "end": "Ndovu Resources Limited", 
+               "start": "Block 2", 
+               "self": "19", 
+               "end": "ExxonMobil Exploration and Production Tanzania Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
-               "start": "Nyuni", 
-               "self": "72", 
-               "end": "Ndovu Resources Limited", 
+               "start": "Statoil Tanzania AS", 
+               "self": "20", 
+               "end": "Statoil ASA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
-               "start": "Ndovu Resources Limited", 
-               "self": "73", 
-               "end": "Aminex PLC", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Aminex USA Inc", 
-               "self": "74", 
-               "end": "Aminex PLC", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Aminex Petroleum Egypt Limited", 
-               "self": "75", 
-               "end": "Aminex PLC", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mkuju River Project", 
-               "self": "76", 
-               "end": "Mantra Tanzania Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mantra Tanzania Ltd", 
-               "self": "77", 
-               "end": "Mantra Resources Pty Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mantra Resources Pty Limited", 
-               "self": "78", 
-               "end": "Cheetah Resource Sarl", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Cheetah Resource Sarl", 
-               "self": "79", 
-               "end": "Uranium One Inc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC PIMCU", 
-               "self": "80", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Dalur", 
-               "self": "81", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Khiagda", 
-               "self": "82", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "CJSC RUSBURMASCH", 
-               "self": "83", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC VNIPIPROMTECHNOLOGII", 
-               "self": "84", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Lunnoye", 
-               "self": "85", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Olovskaja MCC", 
-               "self": "86", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Gornoye UMC", 
-               "self": "87", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC EGMK-Project", 
-               "self": "88", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "The First One Mining Company", 
-               "self": "89", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Itmanovo Agroindustrial Company LLC", 
-               "self": "90", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "United Uranium Companies LLC", 
-               "self": "91", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC South Yakutia Complex Development", 
-               "self": "92", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "JSC Uranium Mining Company", 
-               "self": "93", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Vostok Power Resources", 
-               "self": "94", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "ARMZ Namibia Pty", 
-               "self": "95", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Armenian-Russian Mining Company CJSC", 
-               "self": "96", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "RUNEX URANIUM Pty Ltd", 
-               "self": "97", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mantra Resources Pty Limited", 
-               "self": "98", 
-               "end": "ARMZ Uranium Holding Co", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "ARMZ Uranium Holding Co", 
-               "self": "99", 
-               "end": "Rosatom", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Bulyanhulu Gold Mine", 
-               "self": "100", 
-               "end": "Bulyanhulu Gold Mine Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Buzwagi Gold Mine", 
-               "self": "101", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "North Mara Gold Mine", 
-               "self": "102", 
-               "end": "North Mara Gold Mine Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "103", 
-               "end": "United Kingdom", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Bulyanhulu Gold Mine Ltd", 
-               "self": "104", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "North Mara Gold Mine Ltd", 
-               "self": "105", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Acacia Mining Ltd", 
-               "self": "106", 
-               "end": "Barrick Gold Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "BUK HoldCo Ltd", 
-               "self": "107", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Tanzanian Holdings Ltd", 
-               "self": "108", 
-               "end": "BUK HoldCo Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Cayco Tz Ltd", 
-               "self": "109", 
-               "end": "BUK HoldCo Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "East Africa Gold Mines Ltd", 
-               "self": "110", 
-               "end": "BUK HoldCo Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "ABG Exploration Limited", 
-               "self": "111", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Matinje Exploration Ltd", 
-               "self": "112", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Itobo Exploration Ltd", 
-               "self": "113", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Nyanzaga Exploration Company Ltd", 
-               "self": "114", 
-               "end": "Acacia Mining Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "115", 
-               "end": "Van Eck Associates Corporation", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "116", 
-               "end": "Ontario Teachers' Pension Plan", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "117", 
-               "end": "British Columbia Inv Management Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "118", 
-               "end": "Arnhold & S. Bleichroeder Advisers, LLC", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "119", 
-               "end": "Capital World Investors", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "120", 
-               "end": "Carmignac Gestion", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "121", 
-               "end": "Toronto-Dominion Bank", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "122", 
-               "end": "Slate Path Capital LP", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "123", 
-               "end": "CIBC World Markets Inc.", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Barrick Gold Corp", 
-               "self": "124", 
-               "end": "BMO Asset Management Inc.", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kabanga Nickel Company\u00a0Limited", 
-               "self": "125", 
-               "end": "Barrick Gold Corp", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kabanga Nickel Company\u00a0Limited", 
-               "self": "126", 
-               "end": "Glencore plc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Geita Gold Mine", 
-               "self": "127", 
-               "end": "Geita Gold Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti Australia Limited", 
-               "self": "128", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti Holdings plc", 
-               "self": "129", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti USA Incorporated", 
-               "self": "130", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti C\u00f3rrego do S\u00edtio Minera\u00e7\u00e3o S.A", 
-               "self": "131", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti (Ghana) Limited", 
-               "self": "132", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti (Iduapriem) Limited", 
-               "self": "133", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Cerro Vanguardia S.A", 
-               "self": "134", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "AngloGold Ashanti (Colorado) Corp", 
-               "self": "135", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Geita Gold Mining Limited", 
-               "self": "136", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Minera\u00e7\u00e3o Serra Grande S.A", 
-               "self": "137", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Societ\u00e9 AngloGold Ashanti de Guin\u00e9e S.A", 
-               "self": "138", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kibali (Jersey) Limited", 
-               "self": "139", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Soci\u00e9t\u00e9 des Mines de Morila S.A", 
-               "self": "140", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Soci\u00e9t\u00e9 d'Exploitation des Mines d'Or de Sadiola S.A", 
-               "self": "141", 
-               "end": "AngloGold Ashanti Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Soci\u00e9t\u00e9 d'Exploitation des Mines d'Or de Yatela SA", 
-               "self": "142", 
-               "end": "AngloGold Ashanti Limited", 
+               "start": "ExxonMobil Exploration and Production Tanzania Limited", 
+               "self": "21", 
+               "end": "ExxonMobil Corp", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Songo Songo PSA", 
-               "self": "143", 
+               "self": "22", 
                "end": "PanAfrican Energy Tanzania Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Songo Songo PSA", 
-               "self": "144", 
+               "self": "23", 
                "end": "Tanzania Petroleum Development Corporation", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "PanAfrican Energy Tanzania Limited", 
-               "self": "145", 
+               "self": "24", 
                "end": "Orca Exploration Group Inc", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Orca Exploration Italy Inc", 
-               "self": "146", 
+               "self": "25", 
                "end": "Orca Exploration Group Inc", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "PAE PanAfrican Energy Corporation", 
-               "self": "147", 
+               "self": "26", 
                "end": "Orca Exploration Group Inc", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Orca Exploration UK Services Limited", 
-               "self": "148", 
+               "self": "27", 
                "end": "Orca Exploration Group Inc", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
+               "start": "Tancoal Mine", 
+               "self": "28", 
+               "end": "TANCOAL", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "TANCOAL", 
+               "self": "29", 
+               "end": "Intra Energy (Tanzania) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "TANCOAL", 
+               "self": "30", 
+               "end": "National Development Corporation", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy (Tanzania) Limited", 
+               "self": "31", 
+               "end": "Intra Energy Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AAA Drilling Limited", 
+               "self": "32", 
+               "end": "Intra Energy Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy Limited", 
+               "self": "33", 
+               "end": "Intra Energy Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Atomic Resources Pty Ltd", 
+               "self": "34", 
+               "end": "Intra Energy Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy Corporation (Singapore) Pte Ltd", 
+               "self": "35", 
+               "end": "Intra Energy Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy (Sarawak) Sdn Bhd", 
+               "self": "36", 
+               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy Laos Pte Ltd", 
+               "self": "37", 
+               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy Vietnam Pte Ltd", 
+               "self": "38", 
+               "end": "Intra Energy Corporation (Singapore) Pte Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Intra Energy Trading Limited", 
+               "self": "39", 
+               "end": "Intra Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "East Africa Mining Limited", 
+               "self": "40", 
+               "end": "Intra Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Malcoal Mining Limited", 
+               "self": "41", 
+               "end": "East Africa Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AAA Drilling Limited", 
+               "self": "42", 
+               "end": "AAA Drilling Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Tanzacoal East Africa Mining Limited", 
+               "self": "43", 
+               "end": "Intra Energy (Tanzania) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Tanzacoal East Africa Mining Limited", 
+               "self": "44", 
+               "end": "Olympic Exploration Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kilwani North", 
+               "self": "45", 
+               "end": "Ndovu Resources Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Ruvuma", 
+               "self": "46", 
+               "end": "Ndovu Resources Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Nyuni", 
+               "self": "47", 
+               "end": "Ndovu Resources Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Ndovu Resources Limited", 
+               "self": "48", 
+               "end": "Aminex PLC", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Aminex USA Inc", 
+               "self": "49", 
+               "end": "Aminex PLC", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Aminex Petroleum Egypt Limited", 
+               "self": "50", 
+               "end": "Aminex PLC", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
                "start": "Panda Hill", 
-               "self": "149", 
+               "self": "51", 
                "end": "RECB Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Panda Hill Mining Pty Ltd", 
-               "self": "150", 
+               "self": "52", 
                "end": "Cradle Resources Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "RECB (BVI) Ltd", 
-               "self": "151", 
+               "self": "53", 
                "end": "Cradle Resources Limited", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "RECB Limited", 
-               "self": "152", 
+               "self": "54", 
                "end": "Panda Hill Mining Pty Ltd", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
-               "start": "Golden Pride", 
-               "self": "153", 
-               "end": "Resolute (Tanzania) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Amber Gold Cote d'Ivoire SARL", 
-               "self": "154", 
-               "end": "Resolute (CDI Holdings) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Carpentaria Gold Pty Ltd", 
-               "self": "155", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Drilling and Mining Services Limited", 
-               "self": "156", 
-               "end": "Resolute (Bibiani) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Excalibur Cote d'Ivoire SARL", 
-               "self": "157", 
-               "end": "Resolute (CDI Holdings) Limited Resolute (Treasury) Pty Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Goudhurst Pty Ltd", 
-               "self": "158", 
-               "end": "Resolute (Treasury) Pty Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mabangu Exploration Limited", 
-               "self": "159", 
-               "end": "Resolute (Tanzania) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mabangu Mining Limited", 
-               "self": "160", 
-               "end": "Resolute (Tanzania) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Mensin Gold Bibiani Limited", 
-               "self": "161", 
-               "end": "Resolute (Bibiani) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Noble Mining Ghana Limited", 
-               "self": "162", 
-               "end": "Resolute (Bibiani) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Bibiani) Limited", 
-               "self": "163", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (CDI Holdings) Limited", 
-               "self": "164", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute CI SARL", 
-               "self": "165", 
-               "end": "Resolute (CDI Holdings) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute Exploration SARL", 
-               "self": "166", 
-               "end": "Resolute (Finkolo) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Finkolo) Limited", 
-               "self": "167", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Ghana) Limited", 
-               "self": "168", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute Mali SA", 
-               "self": "169", 
-               "end": "Resolute (Somisy) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute Pty Ltd", 
-               "self": "170", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Somisy) Limited", 
-               "self": "171", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Tanzania) Limited", 
-               "self": "172", 
-               "end": "Resolute Pty Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Resolute (Treasury) Pty Ltd", 
-               "self": "173", 
-               "end": "Resolute Mining Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Societe des Mines de Finkolo SA", 
-               "self": "174", 
-               "end": "Resolute (Finkolo) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Societe des Mines de Syama SA", 
-               "self": "175", 
-               "end": "Resolute (Somisy) Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Buckreef Prospect", 
-               "self": "176", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Eastern Porphyry", 
-               "self": "177", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Tembo Prospect", 
-               "self": "178", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Bingwa Prospect", 
-               "self": "179", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Buziba Prospect", 
-               "self": "180", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Busolwa Prospect", 
-               "self": "181", 
-               "end": "Buckreef Gold Company Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Buckreef Gold Company Limited", 
-               "self": "182", 
-               "end": "Tanzam", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Buckreef Gold Company Limited", 
-               "self": "183", 
-               "end": "Stamico", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Tanzam", 
-               "self": "184", 
-               "end": "Tanzania Royalty Exploration Company", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kiliwani North", 
-               "self": "185", 
-               "end": "Solo Oil plc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Solo Oil International Limited", 
-               "self": "186", 
-               "end": "Solo Oil plc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kilosa-Kilombero", 
-               "self": "187", 
-               "end": "Swala Oil and Gas (Tanzania) Plc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Pangani", 
-               "self": "188", 
-               "end": "Swala Oil and Gas (Tanzania) Plc", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Kilosa-Kilombero", 
-               "self": "189", 
-               "end": "Otto Energy (Tanzania) Pty Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Pangani", 
-               "self": "190", 
-               "end": "Otto Energy (Tanzania) Pty Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Oil and Gas (Tanzania) Plc", 
-               "self": "191", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Energy Limited", 
-               "self": "192", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Energy Australia Pty Ltd", 
-               "self": "193", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Energy (Kenya) Limited", 
-               "self": "194", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Energy (Zambia) Limited", 
-               "self": "195", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Energy (Uganda) Limited", 
-               "self": "196", 
-               "end": "Swala Energy Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Swala Oil and Gas (Tanzania) Plc", 
-               "self": "197", 
-               "end": "Erncon Holding Limited", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
-               "start": "Otto Energy (Tanzania) Pty Ltd", 
-               "self": "198", 
-               "end": "Otto Energy Ltd", 
-               "data": {}, 
-               "type": "OWNED_BY"
-            }, 
-            {
                "start": "Mnazi Bay PSA", 
-               "self": "199", 
+               "self": "55", 
                "end": "Maurel & Prom Exploration Production Tanzania Ltd", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Tanzania Ltd", 
-               "self": "200", 
+               "self": "56", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Exploration Production Tanzania Ltd", 
-               "self": "201", 
+               "self": "57", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom West Africa SAS", 
-               "self": "202", 
+               "self": "58", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Gabon SA", 
-               "self": "203", 
+               "self": "59", 
                "end": "Maurel & Prom West Africa SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Exploration Production Gabon SA", 
-               "self": "204", 
+               "self": "60", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom D\u00e9veloppment Gabon", 
-               "self": "205", 
+               "self": "61", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Congo SA", 
-               "self": "206", 
+               "self": "62", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Zetah Noumbi Ltd", 
-               "self": "207", 
+               "self": "63", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Colombia BV", 
-               "self": "208", 
+               "self": "64", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Oleo & Gas do Brazil BV", 
-               "self": "209", 
+               "self": "65", 
                "end": "Maurel & Prom Colombia BV", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Peru Holdings SAS", 
-               "self": "210", 
+               "self": "66", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "M&P Peru SA", 
-               "self": "211", 
+               "self": "67", 
                "end": "Maurel & Prom Peru Holdings SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Assistance Technique International SA", 
-               "self": "212", 
+               "self": "68", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Panther Eureka S.r.l.", 
-               "self": "213", 
+               "self": "69", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Drilling Services BV", 
-               "self": "214", 
+               "self": "70", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Caroil SAS", 
-               "self": "215", 
+               "self": "71", 
                "end": "Maurel & Prom Drilling Services BV", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "ISON Holding SARL", 
-               "self": "216", 
+               "self": "72", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Assistance Technique SAS", 
-               "self": "217", 
+               "self": "73", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Volney 2 SAS", 
-               "self": "218", 
+               "self": "74", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Exploration Production France SAS", 
-               "self": "219", 
+               "self": "75", 
                "end": "Maurel & Prom Volney 2 SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Mnazi Bay Holdings SAS", 
-               "self": "220", 
+               "self": "76", 
                "end": "Maurel & Prom Volney 2 SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Cyprus Mnazi Bay Limited", 
-               "self": "221", 
+               "self": "77", 
                "end": "Maurel & Prom Mnazi Bay Holdings SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Exploration and Production BR M", 
-               "self": "222", 
+               "self": "78", 
                "end": "Maurel & Prom Volney 2 SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Exploration and Production Mozambique SAS", 
-               "self": "223", 
+               "self": "79", 
                "end": "Maurel & Prom Volney 2 SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Namibia SAS", 
-               "self": "224", 
+               "self": "80", 
                "end": "Maurel & Prom Volney 2 SAS", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Saint-Aubin Energie", 
-               "self": "225", 
+               "self": "81", 
                "end": "Maurel & Prom SA", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Maurel & Prom Iraq SAS", 
-               "self": "226", 
+               "self": "82", 
                "end": "Saint-Aubin Energie", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "MP East Asia SAS", 
-               "self": "227", 
+               "self": "83", 
                "end": "Saint-Aubin Energie", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "MP West Canada SAS", 
-               "self": "228", 
+               "self": "84", 
                "end": "Saint-Aubin Energie", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "MP Energy West Canada Corp.", 
-               "self": "229", 
+               "self": "85", 
                "end": "Saint-Aubin Energie", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Saint-Aubin Energie Quebec Inc", 
-               "self": "230", 
+               "self": "86", 
                "end": "Saint-Aubin Energie", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 
             {
                "start": "Saint-Aubin Exploration & Production (Quebec) Inc", 
-               "self": "231", 
+               "self": "87", 
                "end": "Saint-Aubin Energie", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kiliwani North", 
+               "self": "88", 
+               "end": "Solo Oil plc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Solo Oil International Limited", 
+               "self": "89", 
+               "end": "Solo Oil plc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mnazi Bay PSA", 
+               "self": "90", 
+               "end": "Wentworth Gas Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mnazi Bay PSA", 
+               "self": "91", 
+               "end": "Cyprus Mnazi Bay Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mnazi Bay PSA", 
+               "self": "92", 
+               "end": "Tanzania Petroleum Development Corporation", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Holdings (Jersey) Limited", 
+               "self": "93", 
+               "end": "Wentworth Resources Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cyprus Mnazi Bay Limited", 
+               "self": "94", 
+               "end": "Wentworth Holdings (Jersey) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Mozambique (Mauritius) Limited", 
+               "self": "95", 
+               "end": "Wentworth Holdings (Jersey) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Tanzania (Jersey) Limited", 
+               "self": "96", 
+               "end": "Wentworth Holdings (Jersey) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Gas (Jersey) Limited", 
+               "self": "97", 
+               "end": "Wentworth Tanzania (Jersey) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Mocambique Petroleos Limitada", 
+               "self": "98", 
+               "end": "Wentworth Mozambique (Mauritius) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Wentworth Resources (UK) Limited", 
+               "self": "99", 
+               "end": "Wentworth Resources Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Shareholder", 
+               "self": "100", 
+               "end": "% of IssuedShare Capital", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "HSBC Global Custody Nominee (UK) Limited 811524 ACCT", 
+               "self": "101", 
+               "end": "9.3715", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Deutsche Bank AG", 
+               "self": "102", 
+               "end": "6.2264", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Royal Bank of Canada S/A Clients Account (NOM)", 
+               "self": "103", 
+               "end": "4.296", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Deutsche Bank AG Prime Brokerage Full (NOM)", 
+               "self": "104", 
+               "end": "3.7094", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "BBHISL Nominees Limited 126617 ACCT", 
+               "self": "105", 
+               "end": "3.5454", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Vidacos Nominees Limited SL022 ACCT", 
+               "self": "106", 
+               "end": "3.5404", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Bank Julius Baer & Co S/A Client Assets (NOM)", 
+               "self": "107", 
+               "end": "3.5347", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "The Bank of New York (Nominees) Limited", 
+               "self": "108", 
+               "end": "2.8726", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Invesco Perp Eur SMA BNY Mellon SA/NV", 
+               "self": "109", 
+               "end": "2.6631", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Issa Baluch", 
+               "self": "110", 
+               "end": "2.5598", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Chase Nominess Limited ELAIFFD", 
+               "self": "111", 
+               "end": "2.4184", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barclays Bank PLC BBPLC Client PB Cayman (NOM)", 
+               "self": "112", 
+               "end": "2.1361", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Savannah Energy DMCC", 
+               "self": "113", 
+               "end": "1.5339", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Invesco Funds BNY Mellon (Luxembourg)", 
+               "self": "114", 
+               "end": "1.4058", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "BNP Paribas Sec. Ser S/A BP2S Jersey/Hunt (NOM)", 
+               "self": "115", 
+               "end": "1.1797", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Deutsche Bank AG", 
+               "self": "116", 
+               "end": "1.0957", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "John Louis Dragonetti", 
+               "self": "117", 
+               "end": "1.0007", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Hargreaves Lansdown (Nominees) Limited HLNOM ACCT", 
+               "self": "118", 
+               "end": "0.8344", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cameron Barton", 
+               "self": "119", 
+               "end": "0.8117", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Aurora Nominees Limited 2126900 ACCT", 
+               "self": "120", 
+               "end": "0.8084", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buckreef Prospect", 
+               "self": "121", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Eastern Porphyry", 
+               "self": "122", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Tembo Prospect", 
+               "self": "123", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Bingwa Prospect", 
+               "self": "124", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buziba Prospect", 
+               "self": "125", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Busolwa Prospect", 
+               "self": "126", 
+               "end": "Buckreef Gold Company Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buckreef Gold Company Limited", 
+               "self": "127", 
+               "end": "Tanzam", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buckreef Gold Company Limited", 
+               "self": "128", 
+               "end": "Stamico", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Tanzam", 
+               "self": "129", 
+               "end": "Tanzania Royalty Exploration Company", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mkuju River Project", 
+               "self": "130", 
+               "end": "Mantra Tanzania Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mantra Tanzania Ltd", 
+               "self": "131", 
+               "end": "Mantra Resources Pty Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mantra Resources Pty Limited", 
+               "self": "132", 
+               "end": "Cheetah Resource Sarl", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cheetah Resource Sarl", 
+               "self": "133", 
+               "end": "Uranium One Inc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC PIMCU", 
+               "self": "134", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Dalur", 
+               "self": "135", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Khiagda", 
+               "self": "136", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "CJSC RUSBURMASCH", 
+               "self": "137", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC VNIPIPROMTECHNOLOGII", 
+               "self": "138", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Lunnoye", 
+               "self": "139", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Olovskaja MCC", 
+               "self": "140", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Gornoye UMC", 
+               "self": "141", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC EGMK-Project", 
+               "self": "142", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "The First One Mining Company", 
+               "self": "143", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Itmanovo Agroindustrial Company LLC", 
+               "self": "144", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "United Uranium Companies LLC", 
+               "self": "145", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC South Yakutia Complex Development", 
+               "self": "146", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "JSC Uranium Mining Company", 
+               "self": "147", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Vostok Power Resources", 
+               "self": "148", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "ARMZ Namibia Pty", 
+               "self": "149", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Armenian-Russian Mining Company CJSC", 
+               "self": "150", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "RUNEX URANIUM Pty Ltd", 
+               "self": "151", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mantra Resources Pty Limited", 
+               "self": "152", 
+               "end": "ARMZ Uranium Holding Co", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "ARMZ Uranium Holding Co", 
+               "self": "153", 
+               "end": "Rosatom", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Golden Pride", 
+               "self": "154", 
+               "end": "Resolute (Tanzania) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Amber Gold Cote d'Ivoire SARL", 
+               "self": "155", 
+               "end": "Resolute (CDI Holdings) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Carpentaria Gold Pty Ltd", 
+               "self": "156", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Drilling and Mining Services Limited", 
+               "self": "157", 
+               "end": "Resolute (Bibiani) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Excalibur Cote d'Ivoire SARL", 
+               "self": "158", 
+               "end": "Resolute (CDI Holdings) Limited Resolute (Treasury) Pty Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Goudhurst Pty Ltd", 
+               "self": "159", 
+               "end": "Resolute (Treasury) Pty Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mabangu Exploration Limited", 
+               "self": "160", 
+               "end": "Resolute (Tanzania) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mabangu Mining Limited", 
+               "self": "161", 
+               "end": "Resolute (Tanzania) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Mensin Gold Bibiani Limited", 
+               "self": "162", 
+               "end": "Resolute (Bibiani) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Noble Mining Ghana Limited", 
+               "self": "163", 
+               "end": "Resolute (Bibiani) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Bibiani) Limited", 
+               "self": "164", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (CDI Holdings) Limited", 
+               "self": "165", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute CI SARL", 
+               "self": "166", 
+               "end": "Resolute (CDI Holdings) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute Exploration SARL", 
+               "self": "167", 
+               "end": "Resolute (Finkolo) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Finkolo) Limited", 
+               "self": "168", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Ghana) Limited", 
+               "self": "169", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute Mali SA", 
+               "self": "170", 
+               "end": "Resolute (Somisy) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute Pty Ltd", 
+               "self": "171", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Somisy) Limited", 
+               "self": "172", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Tanzania) Limited", 
+               "self": "173", 
+               "end": "Resolute Pty Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Resolute (Treasury) Pty Ltd", 
+               "self": "174", 
+               "end": "Resolute Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Societe des Mines de Finkolo SA", 
+               "self": "175", 
+               "end": "Resolute (Finkolo) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Societe des Mines de Syama SA", 
+               "self": "176", 
+               "end": "Resolute (Somisy) Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Bulyanhulu Gold Mine", 
+               "self": "177", 
+               "end": "Bulyanhulu Gold Mine Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Buzwagi Gold Mine", 
+               "self": "178", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "North Mara Gold Mine", 
+               "self": "179", 
+               "end": "North Mara Gold Mine Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "180", 
+               "end": "United Kingdom", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Bulyanhulu Gold Mine Ltd", 
+               "self": "181", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "North Mara Gold Mine Ltd", 
+               "self": "182", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Acacia Mining Ltd", 
+               "self": "183", 
+               "end": "Barrick Gold Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "BUK HoldCo Ltd", 
+               "self": "184", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Tanzanian Holdings Ltd", 
+               "self": "185", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cayco Tz Ltd", 
+               "self": "186", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "East Africa Gold Mines Ltd", 
+               "self": "187", 
+               "end": "BUK HoldCo Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "ABG Exploration Limited", 
+               "self": "188", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Matinje Exploration Ltd", 
+               "self": "189", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Itobo Exploration Ltd", 
+               "self": "190", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Nyanzaga Exploration Company Ltd", 
+               "self": "191", 
+               "end": "Acacia Mining Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "192", 
+               "end": "Van Eck Associates Corporation", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "193", 
+               "end": "Ontario Teachers' Pension Plan", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "194", 
+               "end": "British Columbia Inv Management Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "195", 
+               "end": "Arnhold & S. Bleichroeder Advisers, LLC", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "196", 
+               "end": "Capital World Investors", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "197", 
+               "end": "Carmignac Gestion", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "198", 
+               "end": "Toronto-Dominion Bank", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "199", 
+               "end": "Slate Path Capital LP", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "200", 
+               "end": "CIBC World Markets Inc.", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Barrick Gold Corp", 
+               "self": "201", 
+               "end": "BMO Asset Management Inc.", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kabanga Nickel Company\u00a0Limited", 
+               "self": "202", 
+               "end": "Barrick Gold Corp", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kabanga Nickel Company\u00a0Limited", 
+               "self": "203", 
+               "end": "Glencore plc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Geita Gold Mine", 
+               "self": "204", 
+               "end": "Geita Gold Mining Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti Australia Limited", 
+               "self": "205", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti Holdings plc", 
+               "self": "206", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti USA Incorporated", 
+               "self": "207", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti C\u00f3rrego do S\u00edtio Minera\u00e7\u00e3o S.A", 
+               "self": "208", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti (Ghana) Limited", 
+               "self": "209", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti (Iduapriem) Limited", 
+               "self": "210", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Cerro Vanguardia S.A", 
+               "self": "211", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "AngloGold Ashanti (Colorado) Corp", 
+               "self": "212", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Geita Gold Mining Limited", 
+               "self": "213", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Minera\u00e7\u00e3o Serra Grande S.A", 
+               "self": "214", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Societ\u00e9 AngloGold Ashanti de Guin\u00e9e S.A", 
+               "self": "215", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kibali (Jersey) Limited", 
+               "self": "216", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Soci\u00e9t\u00e9 des Mines de Morila S.A", 
+               "self": "217", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Soci\u00e9t\u00e9 d'Exploitation des Mines d'Or de Sadiola S.A", 
+               "self": "218", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Soci\u00e9t\u00e9 d'Exploitation des Mines d'Or de Yatela SA", 
+               "self": "219", 
+               "end": "AngloGold Ashanti Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kilosa-Kilombero", 
+               "self": "220", 
+               "end": "Swala Oil and Gas (Tanzania) Plc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Pangani", 
+               "self": "221", 
+               "end": "Swala Oil and Gas (Tanzania) Plc", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Kilosa-Kilombero", 
+               "self": "222", 
+               "end": "Otto Energy (Tanzania) Pty Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Pangani", 
+               "self": "223", 
+               "end": "Otto Energy (Tanzania) Pty Ltd", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Oil and Gas (Tanzania) Plc", 
+               "self": "224", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Energy Limited", 
+               "self": "225", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Energy Australia Pty Ltd", 
+               "self": "226", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Energy (Kenya) Limited", 
+               "self": "227", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Energy (Zambia) Limited", 
+               "self": "228", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Energy (Uganda) Limited", 
+               "self": "229", 
+               "end": "Swala Energy Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Swala Oil and Gas (Tanzania) Plc", 
+               "self": "230", 
+               "end": "Erncon Holding Limited", 
+               "data": {}, 
+               "type": "OWNED_BY"
+            }, 
+            {
+               "start": "Otto Energy (Tanzania) Pty Ltd", 
+               "self": "231", 
+               "end": "Otto Energy Ltd", 
                "data": {}, 
                "type": "OWNED_BY"
             }, 

@@ -104,15 +104,22 @@ function startGraph(viz, that) {
 	  };
 
     if(sidestep_cypher){
-	console.log('sidestepping json');
+
 	if(window.location.search == '?acacia'){
 	    var jsonfile = 'acacia.json';}
+	else if(window.location.search == '?complete'){
+	    var jsonfile = 'complete.json';
+	}
+	else if(window.location.search == '?selected'){
+	    var jsonfile = 'selected.json';
+	}
 	else{
 	    var jsonfile = 'td.json';}
 	$.getJSON(jsonfile, function(jsn){
-	    console.log('pulled local json');
+	    console.log('pulled local json from ' + jsonfile);
 	    insert_results_from_json(jsn, that)
 	});
+
     }
     else{
 	neo4j.connect(that.url, function (err, graph) {
